@@ -66,3 +66,15 @@ for truck_id in truck ids:
         })
 df_odometer= pd.DataFrame(odometer_data)
 df_odometer['Payroll week']=pd.to_datetime(df_odometer['Payroll week'])
+
+stub_data=[]
+for truck_id in truck_ids:
+    num_entries=np.random.randint(10, 30)
+    for _ in range(num_entries):
+        stud_data.append({
+            'Truck ID': truck_id,
+            'Payroll Week':pd.to_datetime('2024-01-01')+ pd.to_timedelta(np.random.randit(0,180), unit='D')
+            'Amount':np.random.uniform(1000, 10000)
+        })
+df_stub=pd.DataFrame(stub_data)
+df_stub['Payroll Week']=pd.to_datetime(df_stub['Payroll Week'])
