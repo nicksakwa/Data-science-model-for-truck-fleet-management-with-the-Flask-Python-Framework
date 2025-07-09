@@ -1,0 +1,2035 @@
+id,unit_id,status,ownership_type,date_acquired,purchase_amount,monthly_payment,payment_start_date,payment_end_date,lender,make,model,year,purchase_odometer,purchase_odometer_update,odometer,odometer_update,fair_market_value,fair_market_value_date,down_payment,interest_rate,balloon_payment
+1,Truck 0003,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Acza Trucking LLC,INTERNATIONAL,TT,2020,0,,,,0,,0,0,0
+2,Truck 0008,INACTIVE,Owner operator owned,2024-01-01,0,0,,,Titans MVP Trucking LLC,Freightliner,TT,2016,0,,,,0,,0,0,0
+3,Truck 0013,INACTIVE,Owner Operator Owned,11/06/2023,0,0,,,Prieto Trucking LLC,Western Star,TT,2007,,,,,,,,0,
+4,Truck 0002,ACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,International,TT,2019,0,,557333,5-12-2025 1:16:08,0,,0,0,0
+5,Truck 0022,INACTIVE,,,,,,,,kenworth,TT,2006,,,,,,,,,
+6,Truck 0007,ACTIVE,Owner Operator Owned,06/11/2024,0,0,06/11/2024,,Cook Bros Trucking,Kenworth,TT,2021,,,428311,5-10-2025 15:23:31,,,,0,
+7,Truck 0012,ACTIVE,Owner operator owned,2025-01-01,0,0,,,Goat Transportation LLC,VOLVO,TT,2018,0,,578484,5-10-2025 15:34:33,0,,0,0,0
+8,Truck 0035,INACTIVE,Owner Operator Owned,05/20/2024,0,0,05/20/2024,,Mark Ingram,International,TT,2006,,,,,,,,0,
+9,Truck 0040,INACTIVE,Owner operator owned,2025-02-01,0,0,,,GBOB Logistics LLC,freightliner,TT,2016,0,,,,0,,0,0,0
+10,Truck 0045,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,freightliner,TT,2018,0,,,,0,,0,0,0
+11,Truck 0017,ACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,freightliner,TT,2016,0,,862718,5-6-2025 20:31:57,0,,0,0,0
+12,SPOT-Truck 0021,ACTIVE,Operating lease,2024-11-01,185000,3687,2024-12-01,2027-06-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,1150,,70830,5-12-2025 9:25:40,0,,0,0,0
+13,Truck 0058,INACTIVE,Owner operator owned,2025-03-01,0,0,,,Temp Vendor,freightliner,TT,2020,0,,,,0,,0,0,0
+14,SPOT-Truck 0026,ACTIVE,Operating lease,2024-12-01,188955,4775,2025-01-01,2029-07-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,1500,,51503,4-8-2025 15:34:56,0,,0,0,0
+15,Truck 0030,ACTIVE,Owner Operator Owned,07/23/2024,0,0,07/23/2024,,Zayastransport,Freightliner,CASCADIA,2007,,,828805,4-18-2025 20:54:14,,,,0,
+16,Truck 0069,INACTIVE,Owner operator owned,2024-10-09,,,,,Perkins Trucking,volvo,TT,2016,,,,,,,,,
+17,Truck 0074,INACTIVE,Owner operator owned,2025-03-01,0,0,,,EDs Trucking LLC,freightliner,TT,2013,0,,,,0,,0,0,0
+18,SPOT-Truck 0034,ACTIVE,Operating lease,2024-11-01,188955,4775,2025-01-01,2029-07-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,805,,68044,5-12-2025 0:37:40,0,,0,0,0
+19,SPOT-Truck 0039,ACTIVE,Financed,2024-02-01,167000,3757,2024-02-01,2029-02-01,"JB&B Capital, LLC",Peterbilt,579,2024,31398,,233209,5-11-2025 1:17:06,0,,0,12.49,0
+20,SPOT-Truck 0044,ACTIVE,Lease Purchase,2024-10-01,217200,3295,2024-10-01,2029-10-01,Cresco Capital Inc,Kenworth,T680,2024,939,,104421,5-11-2025 15:37:49,0,,19500,8.44,0
+21,Truck 0089,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,VOLVO,TT,2020,0,,,,0,,0,0,0
+22,SPOT-Truck 0049,ACTIVE,Operating lease,2024-12-01,188955,4775,2025-01-01,2029-07-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,1575,,83829,5-12-2025 3:47:40,0,,0,0,0
+23,SPOT-Truck 0053,ACTIVE,Operating lease,2024-12-01,187312,4901,2025-01-01,2029-01-01,M&K Truck Leasing LLC,VOLVO,VNL760,2025,58,,54956,5-11-2025 19:07:55,0,,0,0,0
+24,Truck 0057,ACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Ven,freightliner,TT,2006,0,,195229,5-12-2025 9:23:07,0,,0,0,0
+25,SPOT-Truck 0051,ACTIVE,Lease Purchase,2023-08-01,197555,4008,2023-08-01,2028-08-01,"TPine Leasing Capital, L.P.",Freightliner,Cascadia,2024,16994,,354675,5-12-2025 9:25:31,0,,15000,10.67,101
+26,Truck 0106,INACTIVE,Owner Operator Owned,08/21/2024,0,0,08/21/2024,,,Mack,TT,2007,,,,,,,,0,
+27,SPOT-Truck 0110,INACTIVE,Operating lease,2025-01-01,0,0,,,Lone Mountain,Kenworth,T680,2026,11,2-25-2025 21:18:16,,,0,,0,0,0
+28,SPOT-Truck 0065,ACTIVE,Operating lease,2024-12-01,188955,4775,2025-01-01,2029-07-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,296,,81182,5-11-2025 20:20:22,0,,0,0,0
+29,SPOT-Truck 0068,ACTIVE,Operating lease,2024-10-01,187312,4901,2024-10-01,2028-10-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,65,,92622,5-11-2025 16:59:59,0,,0,0,0
+30,Truck 0073,ACTIVE,Owner operator owned,2024-09-23,,,,,Jaxcrownlogistics llc,Kenworth,TT,2020,,,400314,5-11-2025 22:57:04,,,,,
+31,SPOT-Truck 0078,ACTIVE,Operating lease,2024-01-01,176370,4331.72,2024-01-01,2029-07-01,Ryder Truck Rental,Freightliner,Cascadia,2024,12341,,232128,5-11-2025 19:50:07,0,,0,0,0
+32,Truck 0125,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,Freightliner,Cascadia,2019,0,,,,0,,0,0,0
+33,Truck 0128,INACTIVE,Owner Operator Owned,02/03/2024,0,0,02/03/2024,,Raymone Clifford,VOLVO,TT,2017,,,,,,,,0,
+34,SPOT-Truck 0082,ACTIVE,Operating lease,2024-10-01,187312,4901,2024-10-01,2028-10-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,68,,105896,5-12-2025 9:24:23,0,,0,0,0
+35,SPOT-Truck 0137,INACTIVE,Operating lease,2025-01-01,0,0,,,Lone Mountain,Kenworth,T680,2026,14,2-25-2025 21:16:59,,,0,,0,0,0
+36,SPOT-Truck 0085,ACTIVE,Operating lease,2024-12-01,188955,4775,2025-01-01,2029-07-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,1750,,78592,5-12-2025 9:22:53,0,,0,0,0
+37,SPOT-Truck 0088,ACTIVE,Lease Purchase,2024-12-01,175000,3900,2024-12-01,2028-12-01,AAA Lease LLC,Kenworth,T680,2025,406,,78956,5-11-2025 21:58:49,0,,15000,14.82,35000
+38,SPOT-Truck 0093,ACTIVE,Lease Purchase,2025-01-01,206700,4260,2025-03-01,2028-12-01,Cresco Capital Inc,Kenworth,T680,2026,834,,32459,4-23-2025 3:03:42,0,,15000,13.76,0
+39,SPOT-Truck 0095,ACTIVE,Operating lease,2024-10-01,187312,4901,2024-10-01,2028-10-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,39430,,96161,5-8-2025 15:34:50,0,,0,0,0
+40,SPOT-Truck 0098,ACTIVE,Lease Purchase,2023-02-01,134077.5,2747,2023-02-01,2027-02-01,"Aladdin Capital, Inc.",Peterbilt,579,2022,32000,,469136,4-28-2025 17:27:46,64526,29-04-25,34077.5,14.28,1
+41,SPOT-Truck 0102,ACTIVE,Operating lease,2024-12-01,188955,4775,2025-01-01,2029-07-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,20,,76201,5-12-2025 6:58:31,0,,0,0,0
+42,Truck 0105,INACTIVE,Owner operator owned,2025-03-01,0,0,,,Temp Vendor,freightliner,TT,2016,0,,968879,5-2-2025 16:54:09,0,,0,0,0
+43,SPOT-Truck 0109,ACTIVE,Operating lease,2024-11-01,188955,4775,2025-01-01,2029-07-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,104,,82092,5-12-2025 6:23:28,0,,0,0,0
+44,SPOT-Truck 0114,ACTIVE,Operating lease,2024-06-01,211900,4901,2024-06-01,2028-06-01,M&K Truck Leasing LLC,VOLVO,VNL760,2025,79,,138730,5-11-2025 13:51:10,0,,0,0,0
+45,SPOT-Truck 0171,INACTIVE,Operating lease,2025-02-01,0,0,,,Cresco Capital Inc.,Kenworth,T680,2026,830,,,,0,,0,0,0
+46,SPOT-Truck 0117,ACTIVE,Financed,2024-06-01,110760,2956.31,2024-08-01,2028-08-01,"Crossroads Equipment Lease and Finance, LLC",Peterbilt,579,2023,72729,,206541,5-11-2025 22:41:47,87189,29-04-25,0,12.72,0
+47,SPOT-Truck 0091,ACTIVE,Operating lease,2024-01-01,213900,4829.5,2024-01-01,2028-01-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,47,,206209,5-10-2025 10:26:56,0,,0,0,0
+48,SPOT-Truck 0122,ACTIVE,Operating lease,2024-11-01,188955,4775,2025-01-01,2029-07-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,1672,,74183,5-12-2025 5:09:31,0,,0,0,0
+49,SPOT-Truck 0124,ACTIVE,Lease Purchase,2025-01-01,206700,4260,2025-03-01,2028-12-01,Cresco Capital Inc,Kenworth,T680,2026,12,,40067,5-11-2025 22:22:55,0,,15000,13.76,0
+50,SPOT-Truck 0032,ACTIVE,Lease Purchase,2024-07-01,175500,3889.22,2024-08-01,2029-08-01,Impel Leasing LLC,Kenworth,T680,2025,431,,130263,5-11-2025 14:30:14,0,,0,11.83,1
+51,SPOT-Truck 0132,ACTIVE,Financed,2024-06-01,173485,4014,2024-06-01,2029-06-01,"Equify Financial, LLC",Kenworth,T680,2024,641564,,142680,5-12-2025 4:46:30,0,,9100,13.75,0
+52,SPOT-Truck 0136,ACTIVE,Operating lease,2023-12-01,213900,4829.5,2023-12-01,2027-12-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,180623,,222776,5-12-2025 4:11:49,0,,0,0,0
+53,SPOT-Truck 0140,ACTIVE,Operating lease,2024-12-01,188955,4775,2025-01-01,2029-07-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,1184,,83643,5-10-2025 4:19:12,0,,0,0,0
+54,Truck 0192,INACTIVE,Owner operator owned,2024-10-14,,,,,Acza Trucking LLC,freightliner,TT,2021,,,,,,,,,
+55,SPOT-Truck 0144,ACTIVE,Financed,2024-07-01,111000,2622,2024-07-01,2029-07-01,"Green Truck Financial, LLC.",Freightliner,Cascadia,2023,154991,,280122,5-12-2025 9:24:37,94550,29-04-25,0,13.99,0
+56,Truck 0198,INACTIVE,Owner operator owned,2025-02-01,0,0,,,TT autosport inc,Peterbilt,TR,2024,0,,,,0,,0,0,0
+57,SPOT-Truck 0147,ACTIVE,Operating lease,2024-12-01,188955,4775,2025-01-01,2029-07-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,43,,51560,5-12-2025 7:15:32,0,,0,0,0
+58,Truck 0203,INACTIVE,Owner operator owned,,0,0,,,Acza Trucking LLC,freightliner,TT,2020,0,,,,0,,0,0,0
+59,SPOT-Truck 0184,ACTIVE,Operating lease,2023-12-01,213900,4829.5,2023-12-01,2027-12-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,64,,,,0,,0,0,0
+60,SPOT-Truck 0149,ACTIVE,Financed,2024-08-01,124000,2875,2024-08-01,2029-06-01,"JB&B Capital, LLC",Freightliner,Cascadia,2023,122881,,265782,5-11-2025 19:39:27,94550,29-04-25,0,12.76,0
+61,Truck 0152,ACTIVE,Owner operator owned,2025-02-01,0,0,,,DMB Georgua Enterprises LLC,freightliner,TT,2020,0,,529069,5-12-2025 3:24:46,0,,0,0,0
+62,SPOT-Truck 0156,ACTIVE,Operating lease,2023-12-01,213900,4829.5,2023-12-01,2027-12-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,154,,231533,5-12-2025 9:25:09,0,,0,0,0
+63,Truck 0158,ACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,International,TT,2020,0,,393301,5-12-2025 1:48:12,0,,0,0,0
+64,SPOT-Truck 0162,ACTIVE,Financed,2024-08-01,125500,2910,2024-08-01,2029-06-01,"JB&B Capital, LLC",Freightliner,Cascadia,2023,121694,,271797,5-12-2025 2:52:01,94550,29-04-25,0,12.76,0
+65,Truck 0222,INACTIVE,Owner operator owned,,0,0,,,Acza Trucking LLC,freightliner,TT,2021,0,,,,0,,0,0,0
+66,SPOT-Truck 0166,INACTIVE,Operating lease,2023-05-01,119900,4098.96,2023-05-01,2025-05-01,M&K Truck Leasing LLC,Mack,Anthem,2020,203184,2-20-2025 20:13:06,370180,8-6-2024 0:24:17,0,,0,0,0
+67,SPOT-Truck 0170,ACTIVE,Operating lease,2024-01-01,213900,4829.5,2024-01-01,2028-01-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,150,,207089,5-10-2025 7:13:22,0,,0,0,0
+68,Truck 0230,INACTIVE,Owner operator owned,,,,,,Acza Trucking LLC,Freightliner,Cascadia,2020,,,,,,,,,
+69,Truck 0233,INACTIVE,Owner operator owned,2024-10-17,,,,,Acza Trucking LLC,freightliner,Cascadia,2021,,,,,,,,,
+70,SPOT-Truck 0173,ACTIVE,Operating lease,2024-01-01,213900,4829.5,2024-01-01,2028-01-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,45,,204964,5-12-2025 6:01:18,0,,0,0,0
+71,Truck 0239,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,volvo,TT,2018,550884,,,,0,,0,0,0
+72,SPOT-Truck 0175,ACTIVE,Financed,2024-12-01,160117.9,3372,2024-12-01,2029-12-01,Volvo Financial Services,VOLVO,VNL860,2025,3934,,72359,5-5-2025 16:08:34,0,,17766.67,9.61,0
+73,Truck 0245,INACTIVE,Operating lease,2024-06-01,0,4133,2024-06-01,,M&K Truck Leasing LLC,VOLVO,TT,2025,0,,,,0,,0,0,0
+74,Truck 0248,INACTIVE,Owner operator owned,,0,0,,,AISHA'S FAMILY TRANSPORTATION LLC,Freightliner,Cascadia,2021,512685,,,,0,,0,0,0
+75,SPOT-Truck 0028,ACTIVE,Financed,2024-04-01,167000,3778.02,2024-04-01,2029-04-01,TRUCKERFI,Peterbilt,579,2024,51441,,254077,5-11-2025 16:43:50,0,,16700,16.99,0
+76,Truck 0252,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,KENWORTH,T680,2013,0,,,,0,,0,0,0
+77,SPOT-Truck 0256,INACTIVE,Operating lease,2024-01-01,213900,3995.833333,2024-01-01,2029-01-01,M&K Truck Leasing LLC,VOLVO,TT,2024,0,,,,0,,0,8.94,0
+78,SPOT-Truck 0112,ACTIVE,Lease Purchase,2023-11-01,195505,3854,2023-11-01,2028-11-01,"TPine Leasing Capital, L.P.",Peterbilt,579,2024,752,,259407,5-12-2025 3:39:56,0,,19800,11.4,101
+79,SPOT-Truck 0180,ACTIVE,Financed,2025-01-01,136000,3214.41,2025-04-01,2029-08-01,"RTS Equipment Finance, Inc.",Freightliner,Cascadia,2025,153000,,191995,5-12-2025 5:51:57,0,,7000,11.23,0
+80,SPOT-Truck 0183,ACTIVE,Lease Purchase,2023-11-01,196800,4048,2023-11-01,2028-11-01,"TPine Leasing Capital, L.P.",Freightliner,Cascadia,2024,6112,,248686,5-12-2025 9:23:08,0,,14000,11.82,101
+81,Truck 0265,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,KENWORTH,T680,2001,0,,,,0,,0,0,0
+82,SPOT-Truck 0185,ACTIVE,Financed,2025-01-01,136000,3214.41,2025-04-01,2029-08-01,"RTS Equipment Finance, Inc.",Freightliner,Cascadia,2024,174000,,195057,5-12-2025 2:21:28,0,,7000,11.23,0
+83,SPOT-Truck 0130,ACTIVE,Lease Purchase,2024-07-01,175000,3900,2024-07-01,2028-07-01,AAA Lease LLC,Peterbilt,579,2024,1000,,154274,5-12-2025 0:48:25,0,,10000,13.35,35000
+84,SPOT-Truck 0191,ACTIVE,Lease Purchase,2024-01-01,170176.67,3665,2024-01-01,2028-07-01,"TPine Leasing Capital, L.P.",Peterbilt,579,2024,47320,,221925,5-12-2025 4:05:17,0,,17017.67,11.75,101
+85,SPOT-Truck 0194,ACTIVE,Financed,2025-01-01,136000,3214.41,2025-04-01,2029-08-01,"RTS Equipment Finance, Inc.",Freightliner,Cascadia,2024,164000,,197299,5-12-2025 2:10:27,0,,6500,11.23,0
+86,Truck 0197,ACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,KENWORTH,579,2019,0,,571920,5-11-2025 20:31:22,0,,0,0,0
+87,SPOT-Truck 0200,ACTIVE,Operating lease,2024-10-01,185000,4229,2024-11-01,2027-08-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,916,,76035,5-12-2025 6:33:18,0,,0,0,0
+88,SPOT-Truck 0202,ACTIVE,Financed,2025-01-01,136000,3214.41,2025-04-01,2029-08-01,"RTS Equipment Finance, Inc.",Freightliner,Cascadia,2024,147000,,161139,5-10-2025 15:31:33,0,,6500,11.23,0
+89,Truck 0206,ACTIVE,Owner operator owned,2025-01-01,0,0,,,Mojoacc Inc,International,TT,2021,0,,415580,5-12-2025 3:25:50,0,,0,0,0
+90,Truck 0208,ACTIVE,Owner operator owned,2025-02-01,0,0,,,J&S Freight LLC,International,TT,2020,0,,386345,5-12-2025 9:19:02,0,,0,0,0
+91,SPOT-Truck 0211,ACTIVE,Financed,2025-01-01,136000,3214.41,2025-03-01,2029-07-01,"RTS Equipment Finance, Inc.",Freightliner,Cascadia,2024,149000,,178074,5-12-2025 9:25:09,0,,6500,11.23,0
+92,SPOT-Truck 0129,ACTIVE,Operating lease,2023-08-01,167263,4205.85,2023-08-01,2029-02-01,Ryder Truck Rental,Freightliner,Cascadia,2024,82,,277059,5-2-2025 20:34:36,0,,0,0,0
+93,Truck 0292,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,freightliner,TT,2017,0,,,,0,,0,0,0
+94,SPOT-Truck 0216,ACTIVE,Financed,2025-01-01,136000,3214.41,2025-04-01,2029-08-01,"RTS Equipment Finance, Inc.",Freightliner,Cascadia,2024,148000,,164341,5-10-2025 23:41:53,0,,6500,11.23,0
+95,Truck 0219,ACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,VOLVO,TT,2013,0,,1202139,5-11-2025 0:24:56,0,,0,0,0
+96,SPOT-Truck 0131,ACTIVE,Operating lease,2024-01-01,176370,4331.72,2024-01-01,2029-07-01,Ryder Truck Rental,Freightliner,Cascadia,2024,816,,233781,5-12-2025 9:26:27,0,,0,0,0
+97,Truck 0301,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,Peterbilt,TT,1999,0,,,,0,,0,0,0
+98,SPOT-Truck 0067,ACTIVE,Operating lease,2023-04-01,146928,4070,2023-04-01,2028-04-01,Penske,Freightliner,Cascadia,2023,122767,,445527,5-11-2025 4:21:01,88843,29-04-25,0,0,0
+99,SPOT-Truck 0038,ACTIVE,Financed,2024-09-01,127000,2572,2024-09-01,2029-03-01,"RTS Financial Service, Inc",Freightliner,Cascadia,2023,76,,300087,5-12-2025 2:48:48,94161,29-04-25,19050,11.53,0
+100,Truck 0308,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,INTERNATIONAL,TR,2015,0,,,,0,,0,0,0
+101,Truck 0311,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Natelogistix llc,freightliner,TT,2018,0,,,,0,,0,0,0
+102,SPOT-Truck 0229,ACTIVE,Operating lease,2023-04-01,146928,4070,2023-04-01,2028-04-01,Penske,Freightliner,Cascadia,2023,128581,,405072,5-11-2025 22:09:34,90353,29-04-25,0,0,0
+103,SPOT-Truck 0318,INACTIVE,Operating lease,2025-01-01,0,0,,,Lone Mountain,Kenworth,T680,2026,885,2-25-2025 21:20:19,,,0,,0,0,0
+104,Truck 0320,INACTIVE,Owner operator owned,,0,0,,,Acza Trucking LLC,INTERNATIONAL,TT,2020,0,,,,0,,0,0,0
+105,SPOT-Truck 0232,ACTIVE,Operating lease,2024-07-01,143655,4137,2024-07-01,2027-07-01,Ryder Truck Rental,Freightliner,Cascadia,2024,219177,,276739,5-12-2025 9:24:54,0,,0,0,0
+106,SPOT-Truck 0323,INACTIVE,Operating lease,2025-01-01,0,0,,,Lone Mountain,Kenworth,T680,2026,0,,,,0,,0,0,0
+107,Truck 0325,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,freightliner,TR,2012,0,,,,0,,0,0,0
+108,Truck 0326,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,Freightliner,Cascadia,2021,0,,,,0,,0,0,0
+109,SPOT-Truck 0330,INACTIVE,Operating lease,2025-01-01,0,0,,,Lone Mountain,Kenworth,T680,2026,0,,,,0,,0,0,0
+110,Truck 0332,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,Peterbilt,TT,2020,0,,,,0,,0,0,0
+111,Truck 0334,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,Volvo,TT,2018,0,,,,0,,0,0,0
+112,Truck 0337,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Graddick Transportation LLC,INTERNATIONAL,TT,2013,0,,,,0,,0,0,0
+113,SPOT-Truck 0236,ACTIVE,Operating lease,2024-11-01,185000,3687,2024-12-01,2027-06-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,218,,86507,5-12-2025 0:41:37,0,,0,0,0
+114,SPOT-Truck 0182,ACTIVE,Operating lease,2023-12-01,213900,4829.5,2023-12-01,2027-12-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,717,,234257,5-12-2025 7:21:19,0,,0,0,0
+115,Truck 0344,INACTIVE,Owner operator owned,2024-09-27,,,,,shawtrk 1 llc,PETERBILT,TT,2015,,,,,,,,,
+116,SPOT-Truck 0174,ACTIVE,Financed,2022-12-01,102789.5,2345,2022-12-01,2027-12-01,"Amur Equipment Finance, Inc.",Peterbilt,579,2022,100025,,456820,5-12-2025 9:25:18,65055,29-04-25,0,12.95,0
+117,SPOT-Truck 0221,ACTIVE,Operating lease,2023-06-01,161280,4485.33,2023-06-01,2028-12-01,Ryder Truck Rental,Freightliner,Cascadia,2024,234027,,285523,5-12-2025 3:12:19,0,,0,0,0
+118,Truck 0247,ACTIVE,Owner Operator Owned,04/10/2023,0,0,04/10/2023,,Go Siva LLC,International,TT,2019,,,538471,5-12-2025 4:05:24,,,,0,
+119,Truck 0357,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,Peterbilt,TT,2018,0,,,,0,,0,0,0
+120,SPOT-Truck 0168,ACTIVE,Financed,2021-06-01,144417,2385,2021-06-01,2026-12-01,PACCAR Financial Corp,Peterbilt,579,2022,24512,,578298,5-11-2025 17:23:41,61456,29-04-25,14441.7,7.09,0
+121,SPOT-Truck 0010,ACTIVE,Operating lease,2023-04-01,120406,4070,2023-04-01,2027-04-01,Penske,Freightliner,Cascadia,2022,449677,,496042,5-12-2025 9:25:08,65234,29-04-25,0,0,0
+122,SPOT-Truck 0033,ACTIVE,Operating lease,2023-04-01,105351,4070,2023-04-01,2027-04-01,Penske,Freightliner,Cascadia,2022,503043,,546250,5-5-2025 17:50:00,63355,29-04-25,0,0,0
+123,SPOT-Truck 0257,ACTIVE,Operating lease,2024-12-01,172227,4590.31,2025-01-01,2030-01-01,Ryder Truck Rental,Freightliner,Cascadia,2025,0,,41087,5-12-2025 9:23:42,0,,0,0,0
+124,SPOT-Truck 0370,INACTIVE,Rental,2024-02-01,0,1949,2024-09-01,,KTN Logistics Inc,International,LT625,2018,696528,,,,0,,0,0,0
+125,SPOT-Truck 0025,ACTIVE,Lease Purchase,2023-08-01,197555,4008,2023-08-01,2028-08-01,"TPine Leasing Capital, L.P.",Freightliner,Cascadia,2024,218773,,267798,5-5-2025 20:08:33,0,,15000,10.67,101
+126,Truck 0373,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,kenworth,TT,2020,0,,,,0,,0,0,0
+127,Truck 0376,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Acza Trucking LLC,freightliner,TT,2020,0,,,,0,,0,0,0
+128,SPOT-Truck 0285,ACTIVE,Financed,2023-01-01,108592,2245,2022-12-01,2027-12-01,MidFirst Bank,Peterbilt,579,2022,0,,,,0,,5414.73,11.03,0
+129,Truck 0261,INACTIVE,Owner Operator Owned,08/27/2024,0,0,08/27/2024,,Unique Fright Transportation,Kenworth,TT,2015,,,1229098,4-23-2025 14:23:23,,,,0,
+130,Truck 0383,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,freightliner,TT,1997,0,,,,0,,0,0,0
+131,Truck 0385,INACTIVE,Owner operator owned,2025-02-01,0,0,,,REEM Transportation LLC,volvo,TT,2014,0,,,,0,,0,0,0
+132,SPOT-Truck 0264,ACTIVE,Lease Purchase,2024-01-01,170517.5,3674,2024-01-01,2028-07-01,"TPine Leasing Capital, L.P.",Peterbilt,579,2024,37436,,248231,5-10-2025 6:32:08,0,,17051.5,11.78,101
+133,SPOT-Truck 0135,ACTIVE,Financed,2024-06-01,110760,2956.31,2024-08-01,2028-08-01,"Crossroads Equipment Lease and Finance, LLC",Peterbilt,579,2023,139887,,272829,4-30-2025 21:26:15,85015,29-04-25,0,12.72,0
+134,Truck 0391,INACTIVE,Owner Operator Owned,2024-09-17,0,0,2024-09-17,,Dulory Dulorier,International,TT,2019,,,,,,,,0,
+135,Truck 0268,ACTIVE,Owner operator owned,2024-08-01,0,0,2024-08-01,,Night owl towing llc,Freightliner,TT,2016,0,,775507,5-11-2025 16:58:26,0,,0,0,0
+136,Truck 0271,ACTIVE,Owner operator owned,2025-02-01,0,0,,,J and S Freight LLC,International,LT625,2019,0,,335697,5-12-2025 9:02:06,0,,0,0,0
+137,Truck 0398,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,Freightliner,Cascadia,2018,0,,,,0,,0,0,0
+138,SPOT-Truck 0176,ACTIVE,Operating lease,2024-07-01,146997,4155.06,2024-07-01,2028-10-01,Ryder Truck Rental,Freightliner,Cascadia,2024,80998,,138842,5-11-2025 17:59:16,0,,0,0,0
+139,Truck 0276,INACTIVE,Owner operator owned,2025-03-01,0,0,,,Temp Vendor,VOLVO,TT,2018,0,,56846,4-22-2025 14:51:16,0,,0,0,0
+140,SPOT-Truck 0275,ACTIVE,Operating lease,2024-07-01,146998,4155.06,2024-07-01,2028-10-01,Ryder Truck Rental,Freightliner,Cascadia,2024,79931,,121717,5-12-2025 1:23:36,0,,0,0,0
+141,SPOT-Truck 0280,ACTIVE,Operating lease,2025-02-01,182590,4878,2025-02-01,2029-02-01,HOGAN TRUCK LEASING INC,Freightliner,CASCADIA,2025,0,,31507,5-12-2025 6:20:43,0,,0,0,0
+142,Truck 0283,ACTIVE,Owner operator owned,2025-03-01,0,0,,,Temp Vendor,kenworth,TT,2020,0,,753044,5-11-2025 15:29:52,0,,0,0,0
+143,SPOT-Truck 0269,ACTIVE,Financed,2024-06-01,110760,2956.31,2024-08-01,2028-08-01,"Crossroads Equipment Lease and Finance, LLC",Peterbilt,579,2023,146232,,319227,5-12-2025 9:24:31,83846,29-04-25,0,12.72,0
+144,Truck 0286,ACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,Peterbilt,TT,2021,0,,448459,5-6-2025 14:53:14,0,,0,0,0
+145,Truck 0414,INACTIVE,Owner operator owned,2025-03-01,0,0,,,Atlanta Technologies Group llc,Freightliner,ca,2018,0,,,,0,,0,0,0
+146,Truck 0289,ACTIVE,Owner operator owned,2025-02-01,0,0,,,J and S Freight LLC,International,TT,2020,0,,360826,5-12-2025 9:25:29,0,,0,0,0
+147,Truck 0418,INACTIVE,Owner operator owned,2025-01-01,0,0,,,STR Logistics LLC,INTERNATIONAL,TT,2015,0,,,,0,,0,0,0
+148,SPOT-Truck 0142,ACTIVE,Operating lease,2023-07-01,161789,4485.33,2023-07-01,2028-12-01,Ryder Truck Rental,Freightliner,Cascadia,2024,30995,,310671,5-12-2025 4:24:06,0,,0,0,0
+149,Truck 0424,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Freight turners,freightliner,TR,2017,0,,,,0,,0,0,0
+150,Truck 0427,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,freightliner,TT,2001,0,,,,0,,0,0,0
+151,SPOT-Truck 0294,ACTIVE,Financed,2024-06-01,167200,3805.3,2024-06-01,2029-06-01,CEFI,Kenworth,T680,2025,2614,,175774,5-12-2025 4:26:24,0,,0,13.01,0
+152,Truck 0433,INACTIVE,Owner operator owned,,,,,,Temp Vendor,freightliner,TT,2020,,,,,,,,,
+153,SPOT-Truck 0296,ACTIVE,Operating lease,2025-02-01,175000,4229,2025-03-01,2027-09-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,0,,29987,5-11-2025 14:15:05,0,,0,0,0
+154,SPOT-Truck 0235,ACTIVE,Financed,2023-01-01,108592,2245,2023-01-01,2028-01-01,MidFirst Bank,Peterbilt,579,2022,974,,463384,5-10-2025 2:29:53,64734,29-04-25,5414.73,11.03,0
+155,SPOT-Truck 0300,ACTIVE,Operating lease,2025-02-01,175000,4229,2025-03-01,2027-09-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,5,,45365,5-12-2025 9:23:51,0,,0,0,0
+156,Truck 0304,ACTIVE,Owner operator owned,2024-08-01,0,0,2024-08-01,,Bey logistics,Freightliner,CASCADIA,2018,0,,678896,5-12-2025 1:37:31,0,,0,0,0
+157,SPOT-Truck 0151,ACTIVE,Financed,2024-08-01,160000,3235.07,2024-08-01,2029-03-01,"RTS Financial Service, Inc",Freightliner,Cascadia,2024,67069,,190474,5-12-2025 9:18:22,0,,24000,11.46,0
+158,SPOT-Truck 0307,ACTIVE,Operating lease,2025-02-01,175000,4229,2025-03-01,2027-09-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,900,,28154,5-11-2025 15:34:58,0,,0,0,0
+160,SPOT-Truck 0310,ACTIVE,Operating lease,2025-02-01,175000,4229,2025-03-01,2027-09-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,938,,42784,5-11-2025 20:53:59,0,,0,0,0
+161,Truck 0313,ACTIVE,Owner operator owned,,0,0,,,Temp Vendor,International,TT,2018,0,,611478,5-12-2025 6:49:39,0,,0,0,0
+162,SPOT-Truck 0317,ACTIVE,Financed,2024-11-01,175730.33,3296,2024-11-01,2029-11-01,Volvo Financial Services,VOLVO,VNL860,2025,19659,,111589,5-11-2025 20:19:11,0,,17549.89,9.16,0
+163,SPOT-Truck 0319,ACTIVE,Operating lease,2025-02-01,175000,4229,2025-03-01,2027-09-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,935,,28587,5-12-2025 6:51:43,0,,0,0,0
+164,SPOT-Truck 0079,ACTIVE,Operating lease,2023-04-01,146928,4070,2023-04-01,2028-04-01,Penske,Freightliner,Cascadia,2023,310978,,356614,5-12-2025 2:36:18,92005,29-04-25,0,0,0
+165,SPOT-Truck 0459,INACTIVE,Rental,2023-08-01,0,1732,2024-09-01,,KTN Logistics Inc,International,LT625,2020,446689,,,,0,,0,0,0
+166,Truck 0461,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,freightliner,TR,2020,0,,,,0,,0,0,0
+167,SPOT-Truck 0009,ACTIVE,Financed,2024-03-01,114562.5,2642,2024-03-01,2029-03-01,"KLC Financial, LLC",Peterbilt,579,2022,244857,,424812,3-24-2025 15:24:29,65856,29-04-25,11456.25,13.6,0
+168,SPOT-Truck 0179,ACTIVE,Operating lease,2024-01-01,176370,4331.72,2024-01-01,2029-07-01,Ryder Truck Rental,Freightliner,Cascadia,2024,754,,225445,5-8-2025 23:19:09,0,,0,0,0
+169,Truck 0470,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,freightliner,TT,2016,0,,,,0,,0,0,0
+170,Truck 0473,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Tin. C Trans LLC,INTERNATIONAL,TT,2019,0,,,,0,,0,0,0
+171,Truck 0475,INACTIVE,Owner operator owned,2025-01-01,0,0,,,GBOB Logistics LLC,volvo,TT,2016,0,,,,0,,0,0,0
+172,SPOT-Truck 0242,ACTIVE,Lease Purchase,2024-11-01,64000,1495,2024-11-01,2028-01-01,Cresco Capital Inc,Kenworth,T680,2020,490942,,582149,5-11-2025 23:43:42,45617,29-04-25,7190,6.77,7190
+173,Truck 0329,INACTIVE,Owner operator owned,2025-01-01,0,0,,,D&H legacy transport LLC,Peterbilt,TT,2020,0,,480805,4-22-2025 22:00:45,0,,0,0,0
+174,SPOT-Truck 0223,ACTIVE,Financed,2023-10-01,187228.5,4014,2023-10-01,2028-10-01,Transportation Alliance Bank Inc.,Kenworth,T680,2024,11183,,314251,5-12-2025 8:26:00,0,,0,10.39,0
+175,SPOT-Truck 0116,ACTIVE,Financed,2023-11-01,185327,3972.34,2023-11-01,2028-11-01,Transportation Alliance Bank Inc.,Kenworth,T680,2024,31482,,317975,5-12-2025 8:28:41,0,,0,10.38,0
+176,Truck 0485,INACTIVE,Owner operator owned,2024-09-27,,,,,Peronis Express,INTERNATIONAL,TT,2019,,,,,,,,,
+177,Truck 0487,INACTIVE,Owner Operator Owned,07/31/2024,0,0,07/31/2024,,,Freightliner,CASCADIA,2017,,,,,,,,0,
+178,Truck 0491,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,freightliner,TT,2006,0,,,,0,,0,0,0
+179,Truck 0494,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,freightliner,TT,2006,0,,,,0,,0,0,0
+180,SPOT-Truck 0336,ACTIVE,Lease Purchase,2024-07-01,175500,3889.22,2024-08-01,2029-08-01,Impel Leasing LLC,Kenworth,T680,2025,39,,140389,5-6-2025 12:20:36,0,,0,11.83,1
+181,Truck 0458,INACTIVE,Owner Operator Owned,05/06/2024,0,0,05/06/2024,,Pinango Enterprise Inc,VOLVO,TR,2016,,,,,,,,0,
+182,SPOT-Truck 0339,ACTIVE,Lease Purchase,2025-01-01,175000,3575,2025-01-01,2030-01-01,HEC Leasing LLC,Peterbilt,579,2025,760,,57286,5-12-2025 4:41:42,0,,0,11.9,25000
+183,Truck 0504,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Acza Trucking LLC,freightliner,TT,2020,0,,,,0,,0,0,0
+184,SPOT-Truck 0442,INACTIVE,Rental,2024-08-01,0,3728,2024-08-01,,Ryder Truck Rental,Freightliner,Cascadia,2022,540056,,,,0,,0,0,0
+185,SPOT-Truck 0177,ACTIVE,Operating lease,2023-04-01,117590,4070,2023-04-01,2027-04-01,Penske,International,LT625,2022,1671,,538747,5-9-2025 19:06:04,56227,29-04-25,0,0,0
+186,SPOT-Truck 0343,ACTIVE,Operating lease,2025-02-01,182590,4878,2025-02-01,2029-02-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,28505,,66906,5-10-2025 21:11:10,0,,0,0,0
+187,SPOT-Truck 0346,ACTIVE,Lease Purchase,2025-01-01,175000,3575,2025-02-01,2030-02-01,HEC Leasing LLC,Peterbilt,579,2025,849,,37145,5-12-2025 2:12:26,0,27-01-25,0,11.9,25000
+188,SPOT-Truck 0350,ACTIVE,Operating lease,2025-01-01,182590,4878,2025-03-01,2029-03-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,14414,,51314,5-9-2025 15:51:01,0,,0,0,0
+189,SPOT-Truck 0354,ACTIVE,Operating lease,2025-02-01,182590,4878,2025-02-01,2029-02-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,0,,73968,5-11-2025 23:20:18,0,,0,0,0
+190,SPOT-Truck 0514,INACTIVE,,,,,,,,Freightliner,Cascadia,2025,,,,,,,,,
+191,SPOT-Truck 0356,ACTIVE,Operating lease,2025-02-01,182590,4878,2025-02-01,2029-02-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,19063,,63632,5-1-2025 21:57:17,0,,0,0,0
+192,SPOT-Truck 0359,ACTIVE,Operating lease,2025-02-01,182590,4878,2025-02-01,2029-02-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,16840,,57189,5-12-2025 9:24:36,0,,0,0,0
+193,SPOT-Truck 0361,ACTIVE,Operating lease,2025-02-01,182590,4878,2025-02-01,2029-02-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,12618,,49875,5-12-2025 5:35:05,0,,0,0,0
+194,SPOT-Truck 0362,ACTIVE,Operating lease,2025-01-01,182590,4878,2025-03-01,2029-03-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,18239,,55516,5-12-2025 9:24:01,0,,0,0,0
+195,SPOT-Truck 0366,ACTIVE,Operating lease,2025-02-01,182590,4878,2025-02-01,2029-02-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,16506,,57681,5-12-2025 3:45:50,0,,0,0,0
+196,SPOT-Truck 0527,INACTIVE,,,,,,,,Freightliner,Cascadia,2025,,,,,,,,,
+197,SPOT-Truck 0369,ACTIVE,Operating lease,2024-11-01,187312,4901,2024-12-01,2028-12-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,20303,,60979,5-10-2025 16:51:22,0,,0,0,0
+198,SPOT-Truck 0042,ACTIVE,Lease Purchase,2024-02-01,168000,3720,2024-02-01,2028-02-01,AAA Lease LLC,International,LT625,2024,1559,,227652,5-11-2025 20:26:52,0,,5000,11.81,34000
+199,Truck 0372,ACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TT,2019,0,,549298,5-8-2025 14:40:30,0,,0,0,0
+200,SPOT-Truck 0207,ACTIVE,Lease Purchase,2023-12-01,170177,3665,2023-12-01,2028-06-01,"TPine Leasing Capital, L.P.",Peterbilt,579,2024,7160,,198910,1-21-2025 10:25:52,0,,17018,11.75,101
+201,SPOT-Truck 0309,ACTIVE,Operating lease,2024-01-01,213900,4829.5,2024-01-01,2028-01-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,44,,228985,5-7-2025 15:46:35,0,,0,0,0
+202,SPOT-Truck 0380,ACTIVE,Operating lease,2024-10-01,185000,4229,2024-11-01,2027-08-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,9,,99662,5-11-2025 1:37:26,0,,0,0,0
+203,SPOT-Truck 0539,INACTIVE,Rental,2024-04-01,0,0,2024-04-01,,KTN Logistics Inc,KENWORTH,CONSTRUCTION,2023,331950,,,,0,,0,0,0
+204,Truck 0382,ACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,International,TT,2019,0,,440318,5-7-2025 15:31:35,0,,0,0,0
+205,Truck 0541,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,freightliner,TT,2006,0,,,,0,,0,0,0
+206,SPOT-Truck 0254,ACTIVE,Operating lease,2023-09-01,159686,4281.64,2023-09-01,2029-03-01,Ryder Truck Rental,Freightliner,Cascadia,2024,22,,261557,5-12-2025 7:21:20,0,,0,0,0
+207,SPOT-Truck 0071,ACTIVE,Operating lease,2023-09-01,159686,4281.64,2023-09-01,2029-03-01,Ryder Truck Rental,Freightliner,Cascadia,2024,1632,,279418,5-12-2025 0:07:17,0,,0,0,0
+208,SPOT-Truck 0083,ACTIVE,Operating lease,2023-09-01,159686,4281.64,2023-09-01,2029-03-01,Ryder Truck Rental,Freightliner,Cascadia,2024,35,,252466,5-11-2025 22:55:41,0,,0,0,0
+209,SPOT-Truck 0016,ACTIVE,Operating lease,2023-09-01,159686,4281.64,2023-09-01,2029-03-01,Ryder Truck Rental,Freightliner,Cascadia,2024,1755,,273747,5-12-2025 7:33:53,0,,0,0,0
+210,Truck 0551,INACTIVE,Owner operator owned,2024-10-08,,,,,Mustafa Hajji Mohamed,VOLVO,TT,2016,,,,,,,,,
+211,SPOT-Truck 0241,ACTIVE,Operating lease,2023-09-01,159686,4281.64,2023-09-01,2029-03-01,Ryder Truck Rental,Freightliner,Cascadia,2024,30,,267527,5-12-2025 9:26:26,0,,0,0,0
+212,SPOT-Truck 0066,ACTIVE,Operating lease,2023-09-01,159686,4281.64,2023-09-01,2029-03-01,Ryder Truck Rental,Freightliner,Cascadia,2024,72,,281347,5-11-2025 3:28:02,0,,0,0,0
+213,SPOT-Truck 0148,ACTIVE,Operating lease,2023-09-01,159686,4281.64,2023-09-01,2029-03-01,Ryder Truck Rental,Freightliner,Cascadia,2024,23,,261733,5-9-2025 13:49:07,0,,0,0,0
+214,SPOT-Truck 0004,ACTIVE,Financed,2023-04-01,159000,3619.17,2023-04-01,2027-04-01,"Crossroads Equipment Lease and Finance, LLC",Peterbilt,579,2022,165073,,491913,5-11-2025 22:56:25,63977,29-04-25,24752.5,13.02,0
+215,Truck 0401,ACTIVE,Owner operator owned,2025-01-01,0,0,,,DMB Georgia Enterprises LLC,freightliner,TT,2020,0,,532121,5-11-2025 23:22:09,0,,0,0,0
+216,Truck 0560,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,kenworth,TT,2005,0,,,,0,,0,0,0
+217,Truck 0562,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,Freightliner,Cascadia,2007,0,,,,0,,0,0,0
+218,SPOT-Truck 0404,ACTIVE,Lease Purchase,2024-10-01,217200,3295,2024-10-01,2029-10-01,Cresco Capital Inc,Kenworth,T680,2025,889,,92967,5-11-2025 20:43:03,0,,19500,8.44,0
+219,Truck 0565,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,kenworth,TT,2013,0,,,,0,,0,0,0
+220,Truck 0567,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Acza Trucking LLC,freightliner,TT,2020,0,,,,0,,0,0,0
+221,Truck 0407,ACTIVE,Owner operator owned,2025-02-01,0,0,,,Mojoacc Inc,International,LT625,2019,0,,464117,5-12-2025 9:25:20,0,,0,0,0
+222,Truck 0410,ACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,International,TT,2019,0,,459022,4-29-2025 21:34:59,0,,0,0,0
+223,Truck 0571,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Nacarato Truck Center,kenworth,TT,2015,0,,,,0,,0,0,0
+224,SPOT-Truck 0406,ACTIVE,Lease Purchase,2024-11-01,64000,1495,2024-11-01,2028-01-01,Cresco Capital Inc,Kenworth,T680,2020,484210,,563751,5-10-2025 10:35:12,46161,29-04-25,7190,6.77,7190
+225,Truck 0426,INACTIVE,Owner Operator Owned,2024-09-10,0,0,2024-09-10,,Alex Riser,Freightliner,TT,2016,,,,,,,,0,
+226,Truck 0576,INACTIVE,Owner operator owned,2024-10-21,,,,,FRANKIE HOWARD,INTERNATIONAL,LT,2019,,,,,,,,,
+227,Truck 0578,INACTIVE,Owner Operator Owned,02/22/2024,0,0,,,,Freightliner,TR,2016,,,,,,,,0,
+228,Truck 0253,INACTIVE,Owner Operator Owned,10/10/2023,0,0,10/10/2023,,Top Level Express LLC,Freightliner,CASCADIA,2017,,,,,,,,0,
+230,SPOT-Truck 0104,INACTIVE,Rental,2024-02-01,0,1299,2024-09-01,,KTN Logistics Inc,International,LT625,2018,630264,,,,0,,0,0,0
+231,Truck 0582,INACTIVE,Owner Operator Owned,03/18/2024,0,0,03/18/2024,,RLS Freight and Dispatch LLC,INTERNATIONAL,LT625,2020,,,,,,,,0,
+232,Truck 0583,INACTIVE,Owner operator owned,,0,0,,,Pro Go Transportation,Peterbilt,TT,2019,0,,,,0,,0,0,0
+233,Truck 0585,INACTIVE,Owner Operator Owned,06/13/2024,0,0,06/13/2024,,,KW,TT,2017,,,,,,,,0,
+235,Truck 0587,INACTIVE,Owner Operator Owned,06/04/2024,0,0,06/04/2024,,,KENWORTH,TT,2018,,,,,,,,0,
+236,Truck 0589,INACTIVE,Owner Operator Owned,09/16/2024,0,0,09/16/2024,,,VOLVO,TT,2015,,,,,,,,0,
+237,Truck 0493,INACTIVE,Owner operator owned,,,,,,Goat Transportation LLC,Freightliner,Cascadia,2018,,,,,,,,,
+238,Truck 0591,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Texans Best Transportation LLC,freightliner,TT,2018,0,,,,0,,0,0,0
+239,Truck 0593,INACTIVE,Owner Operator Owned,05/16/2024,0,0,05/16/2024,,RDT Trucking,Freightliner,TT,2012,,,,,,,,0,
+243,Truck 0595,INACTIVE,Owner Operator Owned,07/29/2024,0,0,07/29/2024,,,Freightliner,TT,2003,,,,,,,,0,
+244,Truck 0597,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,Peterbilt,TT,2006,0,,,,0,,0,0,0
+245,Truck 0599,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,INTERNATIONAL,TT,2020,0,,,,0,,0,0,0
+246,Truck 0602,INACTIVE,Owner operator owned,,0,0,,,D R TRANSIT LLC,Kenworth,T680,2016,0,,,,0,,0,0,0
+247,Truck 0604,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TR,2016,0,,,,0,,0,0,0
+248,Truck 0011,INACTIVE,Owner Operator Owned,08/21/2024,0,0,08/21/2024,,Steve Ali,Freightliner,Cascadia,2016,,,,,,,,0,
+249,Truck 0411,ACTIVE,Owner operator owned,,0,0,,,Temp Vendor,Peterbilt,TT,2015,0,,759747,5-12-2025 9:24:39,0,,0,0,0
+250,Truck 0413,ACTIVE,Owner operator owned,,0,0,,,Gateway Express LLC,freightliner,TT,2019,0,,521898,5-12-2025 0:58:40,0,,0,0,0
+251,SPOT-Truck 0077,ACTIVE,Operating lease,2023-04-01,105351,4070,2023-04-01,2027-04-01,Penske,Freightliner,Cascadia,2022,147268,,486885,5-9-2025 22:18:25,65500,29-04-25,0,0,0
+252,Truck 0358,INACTIVE,Owner operator owned,2024-10-09,,,,,Francisco Ruiz,Freightliner,Cascadia,2011,,,,,,,,,
+253,Truck 0614,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,freightliner,TT,2020,0,,,,0,,0,0,0
+254,Truck 0616,INACTIVE,Owner operator owned,,0,0,,,,KENWORTH,TT,2020,0,,,,0,,0,0,0
+255,Truck 0618,INACTIVE,Owner operator owned,,0,0,,,Rogers Freight Transport LLC,freightliner,TT,2017,0,,,,0,,0,0,0
+256,SPOT-Truck 0127,ACTIVE,Financed,2023-04-01,159000,3619.17,2023-04-01,2027-04-01,"Crossroads Equipment Lease and Finance, LLC",Peterbilt,579,2022,174364,,563908,5-12-2025 1:29:20,65041,29-04-25,24752.5,13.02,0
+257,SPOT-Truck 0080,ACTIVE,Financed,2022-12-01,102789.5,2345,2022-12-01,2027-12-01,"Amur Equipment Finance, Inc.",Peterbilt,579,2022,128364,,510322,5-12-2025 3:25:21,0,,0,12.95,0
+258,Truck 0625,INACTIVE,Owner operator owned,,0,0,,,Forward Focus LLC,PETERBILT,Cascadia,2009,1289703,,,,0,,0,0,0
+259,Truck 0628,INACTIVE,Owner Operator Owned,02/26/2024,0,0,02/26/2024,,,VOLVO,TR,2016,,,,,,,,0,
+260,Truck 0631,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,WSTR,TT,2007,0,,,,0,,0,0,0
+261,Truck 0306,INACTIVE,Owner Operator Owned,2024-09-05,0,0,2024-09-05,,SALVADOR VENTURA,Freightliner,TT,2022,,,,,,,,0,
+262,Truck 0635,INACTIVE,Owner Operator Owned,09/18/2024,0,0,09/18/2024,,,INTERNATIONAL,TT,1998,,,,,,,,0,
+263,SPOT-Truck 0637,INACTIVE,Operating lease,2024-08-01,0,3728,2024-08-01,,Ryder Truck Rental,Freightliner,CASCADIA,2020,0,,,,0,,0,0,0
+265,Truck 0639,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,Cascadia,2020,0,,,,0,,0,0,0
+266,Truck 0642,INACTIVE,Owner operator owned,,0,0,,,,International,TR,2016,0,,,,0,,0,0,0
+267,Truck 0643,INACTIVE,Owner Operator Owned,05/28/2024,0,0,05/28/2024,,,VOLVO,TT,2020,,,,,,,,0,
+268,Truck 0606,INACTIVE,Owner Operator Owned,02/12/2024,0,0,,,,Freightliner,TT,2002,,,,,,,,0,
+269,Truck 0647,INACTIVE,Owner Operator Owned,06/17/2024,0,0,06/17/2024,,Ali Abdikadir,Freightliner,TT,2007,,,,,,,,0,
+270,Truck 0650,INACTIVE,Owner Operator Owned,05/07/2024,0,0,05/07/2024,,GBOB Logistics LLC,VOVLO,TT,2016,,,,,,,,0,
+271,Truck 0031,INACTIVE,Owner Operator Owned,02/10/2023,0,0,02/10/2023,,Bell Transport & Logistics LLC,Kenworth,KW,2018,,,,,,,,0,
+272,Truck 0653,INACTIVE,Owner Operator Owned,06/05/2024,0,0,06/05/2024,,Goldstone Logistics LLC,PETERBILT,579,2018,,,,,,,,0,
+273,Truck 0123,INACTIVE,Owner Operator Owned,07/10/2023,0,0,,,Jeffrey Thomas,Freightliner,CASCADIA,2017,,,,,,,,0,
+274,Truck 0538,INACTIVE,Owner Operator Owned,08/26/2024,0,0,08/26/2024,,,Freightliner,PT1,2019,,,,,,,,0,
+275,Truck 0657,INACTIVE,Owner Operator Owned,08/22/2024,0,0,08/22/2024,,,Freightliner,Conventional,2006,,,,,,,,0,
+276,Truck 0577,INACTIVE,Owner Operator Owned,01/31/2024,0,0,,,,KENWORTH,TT,2017,,,,,,,,0,
+277,Truck 0661,INACTIVE,Owner operator owned,,0,0,,,Joshua Goins,INTERNATIONAL,TT,2013,0,,,,0,,0,0,0
+278,Truck 0542,INACTIVE,Owner Operator Owned,01/23/2024,0,0,,,,VOLVO,TT,2012,,,,,,,,0,
+279,Truck 0664,INACTIVE,Operating lease,2024-07-01,0,3600,2024-07-01,,Ryder Truck Rental,Freightliner,TR,2024,0,,,,0,,0,0,0
+280,Truck 0666,INACTIVE,Owner Operator Owned,07/01/2024,0,0,07/01/2024,,,PETERBILT,TT,2019,,,,,,,,0,
+281,Truck 0388,INACTIVE,Owner Operator Owned,11/16/2023,0,0,11/16/2023,,Henry Mugisha,Freightliner,Cascadia,2019,,,,,,,,0,
+282,Truck 0453,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TT,2021,502861,,,,0,,0,0,0
+283,Truck 0482,INACTIVE,Owner Operator Owned,12/11/2023,0,0,,,,INTERNATIONAL,-,2015,,,,,,,,0,
+284,Truck 0673,INACTIVE,Owner Operator Owned,08/19/2024,0,0,08/19/2024,,,VOLVO,VNL860,2020,,,,,,,,0,
+285,Truck 0675,INACTIVE,Owner Operator Owned,06/03/2024,0,0,06/03/2024,,FITT LLC,Freightliner,TR,2019,,,,,,,,0,
+286,Truck 0678,INACTIVE,Owner Operator Owned,06/22/2024,0,0,06/22/2024,,Lami trucking llc,Freightliner,Cascadia,2019,,,,,,,,0,
+287,Truck 0423,ACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,freightliner,TT,2019,0,,700048,5-11-2025 16:27:12,0,,0,0,0
+288,Truck 0680,INACTIVE,Owner Operator Owned,05/08/2024,0,0,05/08/2024,,,VOLVO,TT,2011,,,,,,,,0,
+289,SPOT-Truck 0340,INACTIVE,Operating lease,2023-12-01,213900,3400,2023-12-01,2029-01-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,0,,,,0,,0,0,0
+290,SPOT-Truck 0338,ACTIVE,Operating lease,2023-12-01,213900,4829.5,2023-12-01,2027-12-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,116099,,151044,4-25-2025 17:04:34,0,,0,0,0
+291,Truck 0685,INACTIVE,Owner Operator Owned,05/06/2024,0,0,05/06/2024,,,KENWORTH,TT,2014,,,,,,,,0,
+292,Truck 0688,INACTIVE,Owner Operator Owned,08/12/2024,0,0,08/12/2024,,,PETERBILT,TR,2007,,,,,,,,0,
+293,Truck 0607,INACTIVE,Owner Operator Owned,02/15/2024,0,0,,,,Freightliner,TT,2020,,,,,,,,0,
+294,Truck 0691,INACTIVE,Owner operator owned,,,,,,Temp Vendor,freightliner,TT,2020,,,,,,,,,
+295,Truck 0693,INACTIVE,Owner Operator Owned,05/07/2024,0,0,05/07/2024,,AFG Tronseportation,Freightliner,TT,2019,,,,,,,,0,
+296,Truck 0615,INACTIVE,Owner Operator Owned,02/20/2024,0,0,02/20/2024,,Be-z Transportation LLC,Freightliner,TR,2020,,,,,,,,0,
+297,Truck 0697,INACTIVE,Owner Operator Owned,04/10/2024,0,0,04/10/2024,,,PETERBILT,TT,2018,,,,,,,,0,
+298,Truck 0568,INACTIVE,Owner Operator Owned,01/29/2024,0,0,,,,INTERNATIONAL,TR,2016,,,,,,,,0,
+299,Truck 0072,INACTIVE,Owner Operator Owned,07/30/2024,0,0,07/30/2024,,,INTERNATIONAL,TT,2015,,,,,,,,0,
+300,Truck 0384,INACTIVE,Owner Operator Owned,12/20/2023,0,0,,,,PETERBILT,579,2011,,,,,,,,0,
+301,Truck 0703,INACTIVE,Owner Operator Owned,07/26/2023,0,0,07/26/2023,,,FRHT,TR,2020,,,,,,,,0,
+302,Truck 0260,INACTIVE,Owner operator owned,2024-10-07,,,,,Acza Trucking LLC,Freightliner,TT,2021,,,,,,,,,
+303,Truck 0704,INACTIVE,Owner operator owned,2024-03-01,0,0,,,LSJ Carriers LLC,INTERNATIONAL,TT,2018,0,,,,0,,0,0,0
+304,Truck 0706,INACTIVE,Owner Operator Owned,04/01/2024,0,0,04/01/2024,,Buddah Logistics Transportation Services Inc,Freightliner,TT,2020,,,,,,,,0,
+305,Truck 0707,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,Freightliner,Cascadia,2020,0,,,,0,,0,0,0
+306,Truck 0709,INACTIVE,Owner Operator Owned,05/28/2024,0,0,05/28/2024,,,FRHT,TT,2016,,,,,,,,0,
+307,Truck 0529,INACTIVE,Owner Operator Owned,01/18/2024,0,0,01/18/2024,,Roads R US LLC,Freightliner,CASCADIA,2014,,,,,,,,0,
+308,Truck 0227,INACTIVE,Owner Operator Owned,08/14/2024,0,0,08/14/2024,,,Freightliner,CASCADIA,2017,,,,,,,,0,
+309,Truck 0713,INACTIVE,Owner Operator Owned,06/24/2024,0,0,06/24/2024,,GLOBAL FREIGHT INC.,Freightliner,TT,2018,,,,,,,,0,
+310,Truck 0714,INACTIVE,Owner Operator Owned,06/24/2024,0,0,06/24/2024,,GLOBAL FREIGHT INC.,Freightliner,TT,2018,,,,,,,,0,
+311,Truck 0715,INACTIVE,Owner Operator Owned,08/06/2024,0,0,08/06/2024,,,INTERNATIONAL,AA,2015,,,,,,,,0,
+312,SPOT-Truck 0060,ACTIVE,Lease Purchase,2023-12-01,195505,3854,2023-12-01,2028-12-01,"TPine Leasing Capital, L.P.",Peterbilt,579,2024,16781,,266727,5-10-2025 1:53:11,0,,19800,11.4,101
+313,Truck 0432,INACTIVE,Owner Operator Owned,06/11/2024,0,0,06/11/2024,,Shireftrucking,VOLVO,TT,2019,,,583087,4-7-2025 16:48:15,,,,0,
+314,SPOT-Truck 0434,ACTIVE,Lease Purchase,2024-11-01,175000,3575,2024-12-01,2029-12-01,HEC Leasing LLC,Freightliner,Cascadia,2025,24,,71413,5-12-2025 7:50:25,0,,0,11.9,25000
+315,Truck 0619,INACTIVE,Owner Operator Owned,02/19/2024,0,0,,,,VOLVO,TT,2019,,,,,,,,0,
+316,Truck 0722,INACTIVE,Owner Operator Owned,04/26/2024,0,0,04/26/2024,,My Mehdi Lamrani-Amine,Freightliner,TT,2018,,,,,,,,0,
+317,Truck 0725,INACTIVE,Owner Operator Owned,02/22/2024,0,0,,,,PETERBILT,TT,2017,,,,,,,,0,
+319,Truck 0728,INACTIVE,Owner Operator Owned,07/29/2024,0,0,07/29/2024,,,INTERNATIONAL,TT,2014,,,,,,,,0,
+320,Truck 0422,INACTIVE,Owner Operator Owned,02/27/2024,0,0,02/27/2024,,,Freightliner,TT,2014,,,,,,,,0,
+321,Truck 0629,INACTIVE,Owner Operator Owned,02/21/2024,0,0,,,,Freightliner,TT,2001,,,,,,,,0,
+322,Truck 0437,ACTIVE,Owner Operator Owned,08/19/2024,0,0,08/19/2024,,,VOLVO,TR,2010,,,1070179,5-11-2025 11:49:23,,,,0,
+324,Truck 0683,INACTIVE,Owner operator owned,,0,0,,,,Freightliner,TT,2017,0,,,,0,,0,0,0
+325,Truck 0735,INACTIVE,Owner operator owned,2024-03-01,0,0,,,Chimera Enterprises LLC,Freightliner,TT,2017,0,,,,0,,0,0,0
+326,Truck 0736,INACTIVE,Owner operator owned,,0,0,,,Acza Trucking LLC,Freightliner,Cascadia,2020,513295,,,,0,,0,0,0
+327,Truck 0737,INACTIVE,Owner operator owned,,0,0,,,Acza Trucking LLC,Freightliner,Cascadia,2020,2253,,,,0,,0,0,0
+328,Truck 0668,INACTIVE,Owner Operator Owned,02/20/2024,0,0,02/20/2024,,Sanghera Freight LLC,PETERBILT,TT,2016,,,,,,,,0,
+329,Truck 0739,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TT,2020,471081,,,,0,,0,0,0
+330,Truck 0741,INACTIVE,Owner Operator Owned,07/02/2024,0,0,07/02/2024,,,INTERNATIONAL,TT,2015,,,,,,,,0,
+331,Truck 0438,ACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,freightliner,TT,2008,0,,1094789,5-9-2025 22:25:15,0,,0,0,0
+332,Truck 0743,INACTIVE,Owner Operator Owned,05/08/2024,0,0,05/08/2024,,B&B Logistics Services LLC,PETERBILT,TR,2001,,,,,,,,0,
+333,Truck 0612,INACTIVE,Owner Operator Owned,04/18/2024,0,0,04/18/2024,,KVS Logistics LLC,KENWORTH,TT,2019,,,,,,,,0,
+334,Truck 0746,INACTIVE,Owner Operator Owned,08/15/2024,0,0,08/15/2024,,,Freightliner,TT,2017,,,,,,,,0,
+335,Truck 0302,INACTIVE,Owner Operator Owned,12/04/2023,0,0,,,,INTERNATIONAL,TK,2019,,,,,,,,0,
+338,Truck 0747,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,INTERNATIONAL,TT,2020,0,,,,0,,0,0,0
+339,SPOT-Truck 0195,ACTIVE,Operating lease,2023-04-01,105351,4070,2023-04-01,2027-04-01,Penske,Freightliner,Cascadia,2022,466471,,507617,5-11-2025 21:05:26,64818,29-04-25,0,0,0
+340,Truck 0749,INACTIVE,Owner Operator Owned,05/10/2024,0,0,05/10/2024,,,International,TT,2016,,,,,,,,0,
+341,Truck 0750,INACTIVE,Owner operator owned,,0,0,,,,Freightliner,Cascadia,2020,0,,,,0,,0,0,0
+342,Truck 0753,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,INTERNATIONAL,TT,2019,0,,,,0,,0,0,0
+343,Truck 0462,INACTIVE,Owner operator owned,,0,0,,,,FRHT,-,2015,0,,,,0,,0,0,0
+344,Truck 0756,INACTIVE,Owner Operator Owned,06/05/2024,0,0,06/05/2024,,,PETERBILT,579,2019,,,,,,,,0,
+345,Truck 0758,INACTIVE,Owner Operator Owned,07/15/2024,0,0,07/15/2024,,,Freightliner,TT,2004,,,,,,,,0,
+346,Truck 0760,INACTIVE,Owner Operator Owned,08/19/2024,0,0,08/19/2024,,,PETERBILT,579,2014,,,,,,,,0,
+347,Truck 0561,INACTIVE,Owner Operator Owned,01/24/2024,0,0,01/24/2024,,Uprising Transportation LLC,Western Star,TT,2016,,,,,,,,0,
+348,Truck 0557,INACTIVE,Owner Operator Owned,01/16/2024,0,0,,,,Western Star,TR,2006,,,,,,,,0,
+349,Truck 0764,INACTIVE,Owner Operator Owned,08/12/2024,0,0,08/12/2024,,,INTERNATIONAL,Prostar,2015,,,,,,,,0,
+350,Truck 0766,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TT,2019,0,,,,0,,0,0,0
+351,SPOT-Truck 0767,INACTIVE,Rental,2024-12-01,0,0,2025-01-01,,Ryder Truck Rental,Freightliner,Cascadia,2023,410595,,,,0,,0,0,0
+352,Truck 0768,INACTIVE,Owner Operator Owned,06/10/2024,0,0,06/10/2024,,,NHFRHT,TT,2015,,,,,,,,0,
+353,SPOT-Truck 0277,ACTIVE,Lease Purchase,2024-11-01,211200,3195,2024-11-01,2029-10-01,Cresco Capital Inc,Kenworth,T680,2025,11,,97232,5-8-2025 3:21:45,0,,22695,8.02,0
+354,Truck 0770,INACTIVE,Owner operator owned,,0,0,,,,INTERNATIONAL,TR,2017,0,,,,0,,0,0,0
+355,Truck 0449,INACTIVE,Owner Operator Owned,07/31/2023,0,0,,,,FRHT,2019,2019,,,,,,,,0,
+356,Truck 0772,INACTIVE,Owner operator owned,,0,0,,,FJB trucking inc,VOLVO,TT,2017,0,,,,0,,0,0,0
+357,Truck 0774,INACTIVE,Owner operator owned,,,,,,Temp Vendor,Freightliner,Cascadia,2020,,,,,,,,,
+358,Truck 0457,INACTIVE,Owner Operator Owned,02/28/2023,0,0,02/28/2023,,Man Of God Trucking LLC,Volvo,-,2016,,,,,,,,0,
+359,Truck 0559,INACTIVE,Owner Operator Owned,06/01/2023,0,0,,,Sunny Cargo LLC,Freightliner,TK,2014,,,,,,,,0,
+360,Truck 0417,INACTIVE,Owner Operator Owned,10/03/2023,0,0,,,,VOLVO,VN,2018,,,,,,,,0,
+362,Truck 0644,INACTIVE,Owner Operator Owned,02/28/2024,0,0,02/28/2024,,,Freightliner,PTI,2019,,,,,,,,0,
+364,Truck 0779,INACTIVE,Owner Operator Owned,07/16/2024,0,0,07/16/2024,,Presley Sterling,Freightliner,TT,2020,,,,,,,,0,
+365,Truck 0782,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,Freightliner,ca,2019,0,,,,0,,0,0,0
+366,Truck 0543,INACTIVE,Owner Operator Owned,2024-09-09,0,0,2024-09-09,,Edwin Dodd,Freightliner,TT,2015,,,,,,,,0,
+367,SPOT-Truck 0445,ACTIVE,Operating lease,2024-11-01,185000,3687,2024-12-01,2027-06-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,1404,,63559,5-12-2025 5:48:14,0,,0,0,0
+368,Truck 0070,INACTIVE,Owner Operator Owned,07/07/2023,0,0,,,,VOLVO,860,2023,,,,,,,,0,
+369,Truck 0761,INACTIVE,Owner Operator Owned,04/17/2024,0,0,04/17/2024,,Bsides Logistics,KENWORTH,T680,2020,,,,,,,,0,
+370,Truck 0446,ACTIVE,Owner operator owned,2024-09-24,,,,,Amalik LLC,Freightliner,Cascadia,2017,,,1086730,5-10-2025 21:22:52,,,,,
+373,Truck 0231,INACTIVE,Owner operator owned,,0,0,,,,Freightliner,-,2018,0,,,,0,,0,0,0
+374,SPOT-Truck 0055,ACTIVE,Lease Purchase,2024-07-01,175000,3900,2024-07-01,2028-07-01,AAA Lease LLC,Peterbilt,579,2024,1196,,158091,5-12-2025 9:21:24,0,,10000,13.35,35000
+375,Truck 0788,INACTIVE,Owner Operator Owned,04/16/2024,0,0,04/16/2024,,TEMP,Freightliner,TT,2018,,,,,,,,0,
+377,Truck 0789,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,volvo,TR,2013,657344,,,,0,,0,0,0
+378,Truck 0791,INACTIVE,Owner Operator Owned,09/18/2023,0,0,,,,INTERNATIONAL,TR,2020,,,,,,,,0,
+379,Truck 0451,ACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,Freightliner,Cascadia,2016,0,,994932,5-10-2025 16:06:09,0,,0,0,0
+380,SPOT-Truck 0454,ACTIVE,Operating lease,2025-02-01,182590,4878,2025-02-01,2029-02-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,0,,41526,5-8-2025 14:11:35,0,,0,0,0
+381,Truck 0456,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,International,TT,2015,0,,669762,4-13-2025 19:56:11,0,,0,0,0
+383,Truck 0795,INACTIVE,Owner operator owned,2024-10-07,,,,,Personal touch transport llc,freightliner,TT,1999,,,,,,,,,
+384,Truck 0797,INACTIVE,Owner operator owned,,0,0,,,,Freightliner,TT,2015,0,,,,0,,0,0,0
+386,Truck 0679,INACTIVE,Owner Operator Owned,03/27/2024,0,0,03/27/2024,,J Bouton Transportation LLC,Freightliner,TT,2017,,,,,,,,0,
+387,Truck 0801,INACTIVE,Owner Operator Owned,09/18/2023,0,0,,,,FRHT,tr,2018,,,,,,,,0,
+389,Truck 0803,INACTIVE,Owner Operator Owned,06/26/2024,0,0,06/26/2024,,Miles logistics,Freightliner,TT,2008,,,,,,,,0,
+390,Truck 0805,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,freightliner,TT,2003,0,,,,0,,0,0,0
+391,Truck 0684,INACTIVE,Owner Operator Owned,08/12/2024,0,0,08/12/2024,,,KENWORTH,CONSTRUCTION,2016,,,,,,,,0,
+392,Truck 0608,INACTIVE,Owner operator owned,,0,0,,,,International,TT,2010,0,,,,0,,0,0,0
+393,Truck 0368,INACTIVE,Owner operator owned,,0,0,,,Acza Trucking LLC,INTERNATIONAL,TT,2020,0,,,,0,,0,0,0
+394,Truck 0530,INACTIVE,Owner operator owned,2024-09-01,0,0,2024-09-01,,Raymond Davis,Freightliner,Cascadia,2017,0,,,,0,,0,0,0
+395,Truck 0716,INACTIVE,Owner Operator Owned,04/11/2024,0,0,04/11/2024,,,PETERBILT,TT,2019,,,,,,,,0,
+396,Truck 0800,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,Peterbilt,TT,2014,0,,,,0,,0,0,0
+397,Truck 0813,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,volvo,TT,2018,0,,,,0,,0,0,0
+398,Truck 0815,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,Peterbilt,TT,2018,0,,,,0,,0,0,0
+399,Truck 0817,INACTIVE,Owner operator owned,,0,0,,,,Mack,TT,2018,0,,,,0,,0,0,0
+400,Truck 0695,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,Peterbilt,TT,2018,0,,,,0,,0,0,0
+401,Truck 0193,INACTIVE,Owner Operator Owned,04/01/2024,0,0,04/01/2024,,McMillian Trucking 1 llc,Freightliner,TT,2018,,,,,,,,0,
+402,Truck 0107,ACTIVE,Owner Operator Owned,07/10/2023,0,0,,,Ali Co,Freightliner,CASCADIA,2018,,,492914,4-10-2025 19:57:39,,,,0,
+403,Truck 0820,INACTIVE,Owner operator owned,,0,0,,,Antonio Moore,Freightliner,Cascadia,2016,0,,,,0,,0,0,0
+404,Truck 0483,INACTIVE,Owner Operator Owned,2024-09-17,0,0,2024-09-17,,Omar Abdi,Freightliner,TT,2016,,,,,,,,0,
+405,Truck 0341,INACTIVE,Owner Operator Owned,09/06/2024,0,0,09/06/2024,,,Freightliner,Cascadia,2017,,,,,,,,0,
+406,Truck 0821,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,kenworth,TT,2016,0,,,,0,,0,0,0
+407,Truck 0824,INACTIVE,Owner operator owned,,0,0,,,,International,LT625,2020,0,,,,0,,0,0,0
+408,SPOT-Truck 0396,ACTIVE,Lease Purchase,2024-06-01,180000,3992.37,2024-06-01,2029-06-01,Impel Leasing LLC,Kenworth,T680,2025,466,,168326,5-12-2025 9:13:06,0,,0,11.87,1
+409,Truck 0463,ACTIVE,Owner operator owned,2025-12-01,0,0,,,Temp Vendor,VOLVO,TT,2019,0,,755363,5-10-2025 13:08:23,0,,0,0,0
+411,Truck 0827,INACTIVE,Owner Operator Owned,07/16/2024,0,0,07/16/2024,,,International,TR,2014,,,,,,,,0,
+412,Truck 0773,INACTIVE,Owner Operator Owned,05/10/2024,0,0,05/10/2024,,Libertatum Enterprises Inc.,International,TT,2007,,,,,,,,0,
+413,Truck 0832,INACTIVE,Owner Operator Owned,09/20/2024,0,0,09/20/2024,,,Freightliner,TT,2012,,,,,,,,0,
+415,Truck 0418,INACTIVE,Owner Operator Owned,07/17/2024,0,0,07/17/2024,,Jruthe llc,KENWORTH,TT,2012,,,,,,,,0,
+416,Truck 0834,INACTIVE,Owner operator owned,,0,0,,,Aman Tefera,PETERBILT,TT,2012,0,,,,0,,0,0,0
+417,Truck 0706,INACTIVE,Owner operator owned,,0,0,,,Ajal co,volvo,TR,2013,0,,,,0,,0,0,0
+418,Truck 0835,INACTIVE,Owner Operator Owned,07/01/2024,0,0,07/01/2024,,,Freightliner,TT,2019,,,,,,,,0,
+419,Truck 0043,INACTIVE,Owner Operator Owned,12/14/2023,0,0,,,JOHNNEL MARTINEZ,Freightliner,TT,2018,,,,,,,,0,
+420,Truck 0466,ACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,Freightliner,Cascadia,2020,0,,711124,5-12-2025 1:46:02,0,,0,0,0
+421,SPOT-Truck 0450,ACTIVE,Lease Purchase,2024-11-01,175000,3575,2024-12-01,2029-12-01,HEC Leasing LLC,Freightliner,Cascadia,2025,20,,70823,5-12-2025 9:25:54,0,,0,11.9,25000
+423,Truck 0837,INACTIVE,Rental,2024-05-01,0,0,2024-05-01,,KTN Logistics Inc,INTERNATIONAL,TT,2018,0,,,,0,,0,0,0
+424,Truck 0838,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Temp Vendor,freightliner,TT,2017,0,,,,0,,0,0,0
+425,Truck 0840,INACTIVE,Owner Operator Owned,07/29/2024,0,0,07/29/2024,,A & T Freight Services LLC,KENWORTH,TT,2018,,,,,,,,0,
+426,Truck 0549,INACTIVE,Owner Operator Owned,04/04/2024,0,0,04/04/2024,04/04/2027,FORT POINT LANDING LLC,Freightliner,TT,2020,,,,,,,,0,
+427,Truck 0312,INACTIVE,Owner Operator Owned,11/27/2023,0,0,11/27/2023,,Big Malcolm Trucking,Freightliner,Cascadia,2016,,,,,,,,0,
+428,Truck 0843,INACTIVE,Owner Operator Owned,08/12/2024,0,0,08/12/2024,,Ana?s Transport LLC,PETERBILT,TT,2019,,,,,,,,0,
+429,Truck 0845,INACTIVE,Owner Operator Owned,08/27/2024,0,0,08/27/2024,,,Freightliner,CASCADIA,2015,,,,,,,,0,
+430,SPOT-Truck 0014,ACTIVE,Financed,2023-09-01,185260,3621,2023-09-01,2029-09-01,"Fountain Equipment Finance, LLC.",Kenworth,T680,2024,440,,286223,5-9-2025 15:02:32,0,,0,11.99,0
+431,SPOT-Truck 0164,ACTIVE,Lease Purchase,2024-04-01,175000,3900,2024-04-01,2028-04-01,AAA Lease LLC,Peterbilt,579,2024,1000,,83577,5-12-2025 7:26:21,0,,10000,13.35,35000
+432,Truck 0825,INACTIVE,Owner operator owned,2025-02-01,0,0,,,Zayastransport,KENWORTH,T680,2018,0,,,,0,,0,0,0
+433,Truck 0790,INACTIVE,Owner Operator Owned,05/08/2024,0,0,05/08/2024,,"CandyKissis Trucking, LLC",KENWORTH,TT,2016,,,,,,,,0,
+434,Truck 0850,INACTIVE,Owner operator owned,2024-08-01,0,0,2024-08-01,,Apm Express Llc,Freightliner,TT,1999,0,,,,0,,0,0,0
+435,SPOT-Truck 0425,ACTIVE,Lease Purchase,2024-12-01,175000,3900,2024-12-01,2028-12-01,AAA Lease LLC,Kenworth,T680,2025,425,,47352,5-12-2025 2:46:48,0,,15000,14.82,35000
+436,Truck 0852,INACTIVE,Owner Operator Owned,08/20/2024,0,0,08/20/2024,,,KENWORTH,TT,2018,,,,,,,,0,
+437,Truck 0519,INACTIVE,Owner Operator Owned,01/18/2024,0,0,01/18/2024,,All Pro Elite Logistics LLC,INTERNATIONAL,TR,2015,,,,,,,,0,
+441,Truck 0855,INACTIVE,Owner Operator Owned,06/24/2024,0,0,06/24/2024,,"Carolina Royal Transport, LLC",VOLVO,TT,2017,,,,,,,,0,
+442,Truck 0857,INACTIVE,Owner Operator Owned,08/29/2024,0,0,08/29/2024,,,PETERBILT,579,2020,,,,,,,,0,
+443,Truck 0581,INACTIVE,Owner Operator Owned,08/20/2024,0,0,08/20/2024,,Tiger Trucking,KENWORTH,TT,2013,,,,,,,,0,
+444,Truck 0649,INACTIVE,Owner Operator Owned,04/15/2024,0,0,04/15/2024,,FSB Trucking LLC,Freightliner,TT,2014,,,,,,,,0,
+445,SPOT-Truck 0452,ACTIVE,Financed,2024-12-01,160117.9,3372,2024-12-01,2029-12-01,Volvo Financial Services,VOLVO,VNL860,2025,14112,,73522,5-12-2025 9:25:18,0,,17766.67,9.61,0
+447,Truck 0020,INACTIVE,Owner Operator Owned,09/16/2024,0,0,09/16/2024,,,Freightliner,Cascadia,2018,,,,,,,,0,
+448,Truck 0694,INACTIVE,Owner Operator Owned,03/27/2024,0,0,03/27/2024,,Obaid Hussain Khel,Freightliner,TT,2021,,,,,,,,0,
+449,Truck 0836,INACTIVE,Owner Operator Owned,06/05/2024,0,0,06/05/2024,,S.a towing llc,Mack,TT,2017,,,,,,,,0,
+450,Truck 0481,ACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,freightliner,TT,2017,0,,933239,5-5-2025 22:33:14,0,,0,0,0
+451,Truck 0799,INACTIVE,Owner Operator Owned,05/20/2024,0,0,05/20/2024,,DAFZZ TRANSPORT LLC,Freightliner,TT,2019,,,,,,,,0,
+453,Truck 0603,INACTIVE,Owner Operator Owned,02/12/2024,0,0,,,,INTERNATIONAL,TT,2016,,,,,,,,0,
+454,Truck 0863,INACTIVE,Owner Operator Owned,09/03/2024,0,0,09/03/2024,,,Freightliner,TT,2001,,,,,,,,0,
+455,Truck 0054,INACTIVE,Owner Operator Owned,10/13/2023,0,0,,,,Kenworth,T680,2015,,,,,,,,0,
+456,Truck 0274,INACTIVE,Owner Operator Owned,11/29/2023,0,0,,,,FRHT,Cascadia,2018,,,,,,,,0,
+457,SPOT-Truck 0431,ACTIVE,Financed,2024-12-01,160117.9,3372,2024-12-01,2029-12-01,Volvo Financial Services,VOLVO,VNL860,2025,9463,,76067,5-12-2025 6:33:24,0,,17766.67,9.61,0
+458,Truck 0502,INACTIVE,Owner Operator Owned,01/12/2024,0,0,,,,Freightliner,Cascadia 126,2019,,,,,,,,0,
+459,Truck 0866,INACTIVE,Owner Operator Owned,08/22/2024,0,0,08/22/2024,,Everett Hauling LLC,VOLVO,TT,2016,,,,,,,,0,
+460,Truck 0868,INACTIVE,Owner Operator Owned,09/06/2024,0,0,09/06/2024,,,VOLVO,TT,2015,,,,,,,,0,
+461,Truck 0870,INACTIVE,Owner Operator Owned,06/27/2024,0,0,06/27/2024,,William Ray Downer Jr LLC,Freightliner,TT,2019,,,,,,,,0,
+463,Truck 0872,INACTIVE,Owner Operator Owned,08/23/2024,0,0,08/23/2024,,,Freightliner,TT,202,,,,,,,,0,
+464,Truck 0435,INACTIVE,Owner Operator Owned,06/10/2019,0,0,,,,Freightliner,-,2020,,,,,,,,0,
+465,Truck 0287,INACTIVE,Owner Operator Owned,11/20/2023,0,0,11/20/2023,,Barcennas transport,Freightliner,Cascadia,2011,,,,,,,,0,
+468,Truck 0818,INACTIVE,Owner Operator Owned,05/28/2024,0,0,05/28/2024,,Bekuz Express Llc,Freightliner,TT,2022,,,,,,,,0,
+469,SPOT-Truck 0468,ACTIVE,Operating lease,2024-12-01,172227,4590.31,2025-01-01,2030-01-01,Ryder Truck Rental,Freightliner,Cascadia,2025,32,,37068,4-1-2025 0:11:27,0,,0,0,0
+470,Truck 0536,INACTIVE,Owner Operator Owned,11/27/2023,0,0,11/27/2023,,Mako Trans LLC,KENWORTH,KW,2017,,,,,,,,0,
+471,Truck 0877,INACTIVE,Owner Operator Owned,08/28/2024,0,0,08/28/2024,,Marmax Trucking and Auto Sale,Freightliner,CASCADIA,2015,,,,,,,,0,
+475,Truck 0696,INACTIVE,Owner Operator Owned,04/01/2024,0,0,04/01/2024,,May Trucking,VOLVO,VN,2017,,,,,,,,0,
+476,Truck 0878,INACTIVE,Owner Operator Owned,08/21/2024,0,0,08/21/2024,,Richard Evans,Freightliner,CASCADIA,1999,,,,,,,,0,
+477,Truck 0648,INACTIVE,Owner Operator Owned,03/01/2024,0,0,03/01/2024,,Bronx Love Trucking LLC,Kenworth,T680,2018,,,,,,,,0,
+478,SPOT-Truck 0027,ACTIVE,Operating lease,2023-04-01,117590,4070,2023-04-01,2027-04-01,Penske,International,LT625,2022,1691,,595876,5-12-2025 7:54:27,54301,29-04-25,0,0,0
+479,Truck 0880,INACTIVE,Owner Operator Owned,07/12/2024,0,0,07/12/2024,,EDM Logistics LLC,KENWORTH,TT,2001,,,,,,,,0,
+480,Truck 0748,INACTIVE,Owner Operator Owned,05/02/2024,0,0,05/02/2024,,Davie McCann,Freightliner,TT,2011,,,,,,,,0,
+481,Truck 0652,INACTIVE,Owner operator owned,2024-10-24,,,,,BIHI Freight LLC,International,TT,2019,,,,,,,,,
+482,Truck 0734,INACTIVE,Owner Operator Owned,04/08/2024,0,0,04/08/2024,,,Freightliner,Cascadia 125,2014,,,,,,,,0,
+483,SPOT-Truck 0448,ACTIVE,Financed,2024-10-01,123000,3536.4,2024-10-01,2027-10-01,Y&C Truck Capital Premium LLC,Freightliner,Cascadia,2023,168650,,298971,5-12-2025 9:24:29,94167,29-04-25,23500,14.99,0
+484,Truck 0885,INACTIVE,Owner Operator Owned,09/05/2024,0,0,09/05/2024,,,Freightliner,Cascadia 125,2016,,,,,,,,0,
+485,Truck 0888,INACTIVE,Owner Operator Owned,09/06/2024,0,0,09/06/2024,,,Freightliner,CASCADIA,2016,,,,,,,,0,
+486,Truck 0052,INACTIVE,Owner Operator Owned,08/27/2024,0,0,08/27/2024,,,PETERBILT,TT,2018,,,,,,,,0,
+487,Truck 0711,INACTIVE,Owner Operator Owned,04/04/2024,0,0,04/04/2024,,,KENWORTH,TT,2017,,,,,,,,0,
+488,Truck 0892,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,International,TT,2020,0,,,,0,,0,0,0
+489,SPOT-Truck 0811,INACTIVE,Rental,2024-08-01,0,3728,2024-08-01,,Ryder Truck Rental,Freightliner,Cascadia,2020,446494,,,,0,,0,0,0
+490,SPOT-Truck 0126,ACTIVE,Operating lease,2023-06-01,161280,4485.33,2023-06-01,2028-12-01,Ryder Truck Rental,Freightliner,Cascadia,2024,81,,312576,5-12-2025 9:26:04,0,,0,0,0
+491,Truck 0497,ACTIVE,Owner Operator Owned,06/06/2024,0,0,06/06/2024,06/06/2027,IBEROSTAR LLC,VOLVO,TR,2019,,,830645,5-12-2025 5:05:29,,,,0,
+492,Truck 0891,INACTIVE,Owner operator owned,2025-01-01,0,0,,,IBEROSTAR LLC,VOLVO,TT,2018,0,,,,0,,0,0,0
+493,Truck 0893,INACTIVE,Owner Operator Owned,08/26/2024,0,0,08/26/2024,,,INTERNATIONAL,,2017,,,,,,,,0,
+494,Truck 0895,INACTIVE,Owner Operator Owned,08/27/2024,0,0,08/27/2024,,,Freightliner,TT,2018,,,,,,,,0,
+495,SPOT-Truck 0887,INACTIVE,Rental,2024-05-01,0,0,2024-05-01,,Ryder Truck Rental,INTERNATIONAL,LT625,2020,0,,,,0,,0,0,0
+496,Truck 0228,ACTIVE,Owner Operator Owned,08/16/2023,0,0,08/16/2023,,Garner Transport LLC,VOLVO,TT,2016,,,955690,5-12-2025 4:17:37,,,,0,
+497,Truck 0501,ACTIVE,Owner operator owned,,0,0,,,Blu?s transport llc,VOLVO,TT,2004,0,,51621,5-12-2025 2:22:36,0,,0,0,0
+498,Truck 0899,INACTIVE,Owner Operator Owned,01/24/2024,0,0,,,,Freightliner,TR,2022,,,,,,,,0,
+499,Truck 0900,INACTIVE,Owner Operator Owned,09/13/2024,0,0,09/13/2024,,,Freightliner,TT,2020,,,,,,,,0,
+500,Truck 0546,INACTIVE,Owner Operator Owned,01/25/2024,0,0,,,"MAROIS TRANSPORT PLUS, LLC",PETERBILT,TT,2020,,,,,,,,0,
+501,Truck 0111,INACTIVE,Owner Operator Owned,02/24/2023,0,0,,,,KENWORTH,T680,2019,,,,,,,,0,
+502,Truck 0503,ACTIVE,Owner Operator Owned,04/15/2024,0,0,04/15/2024,,Wins transportation,Freightliner,TT,2020,,,633809,5-11-2025 15:11:02,,,,0,
+503,Truck 0901,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Miles United Hauling LLC,Peterbilt,TT,2019,0,,,,0,,0,0,0
+504,Truck 0478,ACTIVE,Owner Operator Owned,02/07/2024,0,0,,,RLS Freight and Dispatch LLC,International,TT,2018,,,548418,5-9-2025 23:51:06,,,,0,
+505,Truck 0237,INACTIVE,Owner Operator Owned,11/09/2023,0,0,11/09/2023,,WilsonTranpotain,Freightliner,Con,2007,,,,,,,,0,
+506,Truck 0904,INACTIVE,Owner operator owned,,0,0,,,Forward Focus LLC,PETERBILT,TR,2015,0,,,,0,,0,0,0
+507,Truck 0810,INACTIVE,Owner operator owned,,0,0,,,Acza Trucking LLC,Freightliner,Cascadia,2021,0,,,,0,,0,0,0
+508,Truck 0873,INACTIVE,Owner Operator Owned,07/03/2024,0,0,07/03/2024,,Vicotryn Adebolu,VOLVO,TR,2017,,,,,,,,0,
+509,Truck 0906,INACTIVE,Owner Operator Owned,01/12/2024,0,0,,,,Freightliner,-,2012,,,,,,,,0,
+510,SPOT-Truck 0403,ACTIVE,Operating lease,2024-12-01,188955,4775,2025-01-01,2029-07-01,HOGAN TRUCK LEASING INC,Freightliner,Cascadia,2025,1115,,57556,5-12-2025 7:18:00,0,,0,0,0
+511,Truck 0909,INACTIVE,Owner operator owned,,0,0,,,Omar Abdi,Freightliner,Cascadia,2016,0,,,,0,,0,0,0
+512,SPOT-Truck 0224,ACTIVE,Financed,2024-02-01,168617,3357.33,2024-02-01,2029-02-01,"Crossroads Equipment Lease and Finance, LLC",Peterbilt,579,2024,50811,,303394,5-12-2025 4:02:32,0,,17000,11.8,0
+513,Truck 0910,INACTIVE,Owner operator owned,2025-01-01,0,0,,,NHO trucking llc,INTERNATIONAL,TK,1997,0,,,,0,,0,0,0
+514,Truck 0882,INACTIVE,Owner Operator Owned,04/01/2024,0,0,05/01/2024,,DPS Logistics LLC,VOLVO,TT,2007,,,,,,,,0,
+515,SPOT-Truck 0118,ACTIVE,Financed,2021-03-01,142900,2712,2021-04-01,2025-04-01,Capital Lending,Peterbilt,579,2022,1420,,475113,5-11-2025 9:46:01,64506,29-04-25,36350,8.77,0
+516,SPOT-Truck 0507,ACTIVE,Operating lease,2024-12-01,172227,4590.31,2025-01-01,2030-01-01,Ryder Truck Rental,Freightliner,Cascadia,2025,0,,51669,5-12-2025 9:22:57,0,,0,0,0
+517,Truck 0677,INACTIVE,Owner Operator Owned,08/08/2024,0,0,08/08/2024,,Jose Marrero,INTERNATIONAL,TT,2014,,,,,,,,0,
+518,Truck 0851,INACTIVE,Owner operator owned,2024-10-03,,,,,IMBURRIS LLC,freightliner,TT,2017,,,,,,,,,
+519,Truck 0056,ACTIVE,Owner Operator Owned,12/07/2023,0,0,12/07/2023,,RLS FREIGHT AND DISPATCH LLC,International,LT625,2019,,,,,,,,0,
+520,Truck 0596,INACTIVE,Owner Operator Owned,04/08/2024,0,0,04/08/2024,,,Freightliner,CASCADIA,2016,,,,,,,,0,
+521,Truck 0912,INACTIVE,Owner operator owned,2025-01-01,0,0,,,MENCHACA TRANSPORT INC,kenworth,TR,1997,0,,,,0,,0,0,0
+522,Truck 0806,INACTIVE,Owner Operator Owned,05/20/2024,0,0,05/20/2024,,GM Express,Freightliner,TT,2016,,,,,,,,0,
+523,Truck 0856,INACTIVE,Owner Operator Owned,06/04/2024,0,0,06/04/2024,,Bawse Hawg Trucking LLC,FRHT,TT,2015,,,,,,,,0,
+524,Truck 0217,INACTIVE,Owner Operator Owned,09/14/2023,0,0,09/14/2023,,Ahmad Sattari,Kenworth,TK,2020,,,,,,,,0,
+525,Truck 0819,INACTIVE,Owner Operator Owned,05/30/2024,0,0,05/30/2024,,CU Logistics,PETERBILT,579,2019,,,,,,,,0,
+526,Truck 0621,INACTIVE,Owner operator owned,,0,0,,,,Peterbilt,-,2017,0,,,,0,,0,0,0
+527,Truck 0528,INACTIVE,Owner operator owned,2024-10-24,,,,,Aramaya Trucking LLC,Mack,TT,2023,,,,,,,,,
+528,Truck 0701,INACTIVE,Owner operator owned,2024-10-25,,,,,Nietzsche Trucking LLC,volvo,TT,2012,,,,,,,,,
+529,Truck 0328,ACTIVE,Owner Operator Owned,2024-09-18,0,0,2024-09-18,,NAJAT ALI,Freightliner,TT,2019,,,595582,5-12-2025 5:51:47,,,,0,
+530,Truck 0919,INACTIVE,Owner operator owned,,0,0,,,,FRHT,CA1,2019,0,,,,0,,0,0,0
+531,Truck 0580,INACTIVE,Owner Operator Owned,02/01/2024,0,0,02/01/2024,,Gore Transport LLC,PETERBILT,TR,2020,,,,,,,,0,
+532,Truck 0921,INACTIVE,Owner Operator Owned,04/03/2024,0,0,04/03/2024,,DED TRUCKING,kenw,TT,2018,,,,,,,,0,
+533,Truck 0922,INACTIVE,Owner Operator Owned,04/18/2024,0,0,04/18/2024,,OmniGlobal Logistics LLC,Freightliner,TT,2019,,,,,,,,0,
+534,Truck 0924,INACTIVE,Owner Operator Owned,09/17/2024,0,0,09/17/2024,,,VOLVO,TT,2016,,,,,,,,0,
+535,Truck 0349,INACTIVE,Owner Operator Owned,2024-09-11,0,0,2024-09-11,,Freedom transportation llc,Freightliner,CASCADIA,2017,,,,,,,,0,
+536,SPOT-Truck 0062,active,Operating lease,2023-06-01,161280,4485.33,2023-06-01,2028-12-01,Ryder Truck Rental,Freightliner,Cascadia,2024,266288,,315807,5-12-2025 5:38:49,0,,0,0,0
+537,SPOT-Truck 0415,INACTIVE,Operating lease,2021-04-01,154900,3263.13,2021-04-01,2025-04-01,Mack Financial Services,Mack,Anthem,2022,0,,,,0,,29000,11.15,0
+538,Truck 0928,INACTIVE,Owner Operator Owned,08/13/2024,0,0,08/13/2024,,Baley Cordes,INTERNATIONAL,TT,2017,,,,,,,,0,
+539,SPOT-Truck 0159,INACTIVE,Operating lease,2021-11-01,165360,4865,2021-11-01,2024-11-01,Transchicago,Freightliner,Cascadia,2022,0,,,,0,,0,0,0
+540,SPOT-Truck 0484,ACTIVE,Financed,2024-11-01,175730.33,3296,2024-11-01,2029-11-01,Volvo Financial Services,VOLVO,VNL860,2025,20787,,77344,5-7-2025 18:23:17,0,,17549.89,9.16,0
+541,Truck 0392,INACTIVE,Owner Operator Owned,12/22/2023,0,0,,,Lebon Transportation LLC,Freightliner,Cascadia,2021,,,,,,,,0,
+542,Truck 0086,INACTIVE,Owner Operator Owned,09/25/2023,0,0,,,Top Level Express LLC,Freightliner,-,2016,,,,,,,,0,
+543,Truck 0389,INACTIVE,Owner Operator Owned,06/27/2024,0,0,06/27/2024,,,VOVLO,TT,2021,,,,,,,,0,
+544,Truck 0518,ACTIVE,Owner Operator Owned,08/21/2024,0,0,08/21/2024,,Steve Ali,Freightliner,Cascadia,2018,,,707052,5-12-2025 9:24:20,,,,0,
+545,Truck 0630,INACTIVE,Owner Operator Owned,05/15/2024,0,0,05/15/2024,,RAFIQ EXPRESS LLC,Freightliner,CASCADIA,2018,,,,,,,,0,
+546,Truck 0933,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,INTERNATIONAL,TT,2020,0,,,,0,,0,0,0
+547,SPOT-Truck 0113,ACTIVE,Financed,2024-06-01,167200,3805.3,2024-06-01,2029-06-01,CEFI,Kenworth,T680,2025,2631,,181927,5-5-2025 18:25:37,0,,0,13.01,0
+548,Truck 0935,INACTIVE,Owner Operator Owned,08/27/2024,0,0,08/27/2024,,,VOLVO,VNL 64T730,2013,,,,,,,,0,
+549,Truck 0524,ACTIVE,Owner operator owned,,0,0,,,Team Aiken Trucking Company LLC,freightliner,TR,2014,0,,1016512,5-10-2025 19:55:39,0,,0,0,0
+550,Truck 0733,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,Freightliner,Cascadia,2020,0,,,,0,,0,0,0
+551,Truck 0525,ACTIVE,Owner operator owned,,0,0,,,Temp Vendor,Peterbilt,TT,2016,0,,738958,5-9-2025 0:55:17,0,,0,0,0
+552,Truck 0279,ACTIVE,Owner operator owned,2024-10-21,,,,,Tracy Lynch,freightliner,TT,2019,,,694809,5-12-2025 3:50:28,,,,,
+553,Truck 0592,INACTIVE,Owner Operator Owned,02/12/2024,0,0,,,,VOLVO,VN,2017,,,,,,,,0,
+554,Truck 0510,INACTIVE,Owner Operator Owned,2024-08-29,0,0,2024-08-29,,Faithful Tidings Logistics,Freightliner,TT,2019,,,,,,,,0,
+555,Truck 0249,INACTIVE,Owner Operator Owned,11/14/2023,0,0,,,Jonathan Molina,Freightliner,CASCADIA,2018,,,,,,,,0,
+556,Truck 0778,INACTIVE,Owner Operator Owned,05/13/2024,0,0,05/13/2024,,,volvo,tr,2017,,,,,,,,0,
+557,SPOT-Truck 0244,INACTIVE,Rental,2024-02-01,0,2382,2024-09-01,,KTN Logisitics Inc,International,LT625,2019,459740,,,,0,,0,0,0
+559,Truck 0584,INACTIVE,Owner Operator Owned,02/07/2024,0,0,,,,Freightliner,TT,2015,,,,,,,,0,
+560,SPOT-Truck 0331,ACTIVE,Financed,2024-10-01,123000,3536.4,2024-10-01,2027-10-01,Y&C Truck Capital Premium LLC,Freightliner,Cascadia,2023,175883,,274814,5-12-2025 0:37:38,94550,29-04-25,23500,14.99,0
+561,SPOT-Truck 0226,ACTIVE,Operating lease,2023-04-01,117590,4070,2023-04-01,2027-04-01,Penske,International,LT625,2022,148845,,439151,5-12-2025 3:46:16,59850,29-04-25,0,0,0
+562,SPOT-Truck 0465,ACTIVE,Operating lease,2024-12-01,172227,4590.31,2025-01-01,2030-01-01,Ryder Truck Rental,Freightliner,Cascadia,2025,6188,,53213,5-9-2025 16:03:13,0,,0,0,0
+563,SPOT-Truck 0492,ACTIVE,Operating lease,2024-12-01,172227,4590.31,2025-01-01,2030-01-01,Ryder Truck Rental,Freightliner,Cascadia,2025,151,,43490,5-12-2025 4:10:38,0,,0,0,0
+565,Truck 0943,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TT,2019,0,,,,0,,0,0,0
+566,Truck 0663,INACTIVE,Owner Operator Owned,03/04/2024,0,0,03/04/2024,,UW trucking LLC,Freightliner,TT,2005,,,,,,,,0,
+567,Truck 0917,INACTIVE,Owner Operator Owned,08/08/2024,0,0,08/08/2024,,,Freightliner,Cascadia 125,2019,,,,,,,,0,
+569,SPOT-Truck 0807,INACTIVE,Rental,2024-08-01,0,3728,2024-08-01,,Ryder Truck Rental,Freightliner,Cascadia,2021,382606,,,,0,,0,0,0
+570,Truck 0945,INACTIVE,Owner Operator Owned,06/03/2024,0,0,06/03/2024,,,NHVOLV,TT,2007,,,,,,,,0,
+571,Truck 0846,INACTIVE,Owner Operator Owned,06/13/2024,0,0,06/13/2024,,Daughterdadonthego,KENWORTH,TT,2019,,,,,,,,0,
+572,Truck 0533,ACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TT,2016,0,,932954,5-12-2025 5:59:11,0,,0,0,0
+573,Truck 0942,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,International,TT,2019,0,,,,0,,0,0,0
+574,Truck 0535,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Rosehall trucking and technical services llc,freightliner,TT,2021,0,,474120,4-29-2025 21:19:44,0,,0,0,0
+575,Truck 0751,INACTIVE,Owner Operator Owned,05/03/2024,0,0,05/03/2024,,Ibrahima Diakite,Freightliner,Corp,2017,,,,,,,,0,
+576,Truck 0826,INACTIVE,Owner Operator Owned,06/17/2024,0,0,06/17/2024,,jusewentransport llc,INTERNATIONAL,TT,2016,,,,,,,,0,
+577,Truck 0950,INACTIVE,Owner Operator Owned,04/30/2024,0,0,04/30/2024,,B&B Logistics Services LLC,PETERBILT,TT,2011,,,,,,,,0,
+582,SPOT-Truck 0015,ACTIVE,Financed,2024-05-01,168852,3635.15,2024-05-01,2029-05-01,"Crossroads Equipment Lease and Finance, LLC",Kenworth,T680,2024,439,2-20-2025 20:06:05,195445,5-11-2025 20:19:12,0,,9000,10.57,0
+583,Truck 0951,INACTIVE,Owner Operator Owned,08/19/2024,0,0,08/19/2024,,,PETERBILT,TT,2010,,,,,,,,0,
+584,Truck 0953,INACTIVE,Owner Operator Owned,04/26/2024,0,0,04/26/2024,,KTN Logistics Inc,KENWORTH,CONSTRUCTION,2023,,,,,,,,0,
+585,Truck 0954,INACTIVE,Owner Operator Owned,04/23/2024,0,0,04/23/2024,,Zion express llc,Freightliner,,2016,,,,,,,,0,
+586,SPOT-Truck 0381,ACTIVE,Lease Purchase,2024-07-01,175500,3889.22,2024-08-01,2029-08-01,Impel Leasing LLC,Kenworth,T680,2025,416,,133730,5-11-2025 23:15:01,0,,0,11.83,1
+587,Truck 0955,INACTIVE,Owner Operator Owned,06/06/2024,0,0,06/06/2024,,,PETERBILT,TC,2015,,,,,,,,0,
+588,Truck 0394,INACTIVE,Owner operator owned,2024-03-01,0,0,,,Layfield Sampson,VOLVO,TT,2005,0,,,,0,,0,0,0
+589,Truck 0957,INACTIVE,Owner operator owned,,0,0,,,,Freightliner,,2013,0,,,,0,,0,0,0
+590,Truck 0575,INACTIVE,Owner Operator Owned,01/29/2024,0,0,,,,VOLVO,TT,2019,,,,,,,,0,
+591,Truck 0958,INACTIVE,Rental,2024-08-01,0,2434,2024-08-01,,Ryder Truck Rental,VOLVO,TR,2020,0,,,,0,,0,0,0
+592,Truck 0793,INACTIVE,Owner Operator Owned,04/25/2024,0,0,04/25/2024,,Power Move Logistics,VOLVO,TT,2012,,,,,,,,0,
+593,Truck 0316,ACTIVE,Owner operator owned,2024-10-15,,,,,Steven Aparicio,Freightliner,TT,2019,,,607630,5-12-2025 9:16:17,,,,,
+594,Truck 0959,INACTIVE,Owner operator owned,,0,0,,,,PETERBILT,,2009,0,,,,0,,0,0,0
+595,Truck 0266,INACTIVE,Owner Operator Owned,11/21/2023,0,0,,,,Freightliner,Cascadia 125,2013,,,,,,,,0,
+596,Truck 0952,INACTIVE,Owner operator owned,,0,0,,,Ryoung Transportation LLC,International,TT,2020,0,,,,0,,0,0,0
+597,Truck 0210,ACTIVE,Owner Operator Owned,05/13/2024,0,0,05/13/2024,,IBEROSTAR LLC,VOLVO,VNL 860,2019,,,806583,5-12-2025 6:25:28,,,,0,
+598,Truck 0794,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,Freightliner,Cascadia,2020,0,,,,0,,0,0,0
+599,Truck 0960,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,kenworth,TT,2018,0,,,,0,,0,0,0
+600,Truck 0962,INACTIVE,Owner Operator Owned,02/22/2024,0,0,,,,Freightliner,TT,2009,,,,,,,,0,
+601,Truck 0964,INACTIVE,Owner Operator Owned,04/12/2024,0,0,04/12/2024,,Arroyo Transport LLC,PETERBILT,TT,2017,,,,,,,,0,
+603,Truck 0967,INACTIVE,Owner Operator Owned,12/01/2023,0,0,,,,VOLVO,-,2020,,,,,,,,0,
+605,Truck 0938,INACTIVE,Owner Operator Owned,08/19/2024,0,0,08/19/2024,,,PETERBILT,579,2021,,,,,,,,0,
+606,Truck 0968,INACTIVE,Owner operator owned,,0,0,,,,KENWORTH,CONSTRUCTION T680,2021,0,,,,0,,0,0,0
+607,SPOT-Truck 0409,ACTIVE,Operating lease,2024-11-01,185000,3687,2024-12-01,2027-06-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,1142,,88306,5-12-2025 9:24:37,0,,0,0,0
+608,SPOT-Truck 0399,ACTIVE,Financed,2024-09-01,80390,2146,2024-09-01,2028-09-01,"Crossroads Equipment Lease and Finance, LLC",Freightliner,Cascadia,2022,258824,,350844,5-12-2025 9:25:21,67991,29-04-25,19600,12.72,0
+609,Truck 0969,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TT,2016,0,,,,0,,0,0,0
+610,Truck 0247,ACTIVE,Owner operator owned,,0,0,,,PAC Transportation LLC,Kenworth,TT,2024,0,,134583,5-12-2025 0:53:12,0,,0,0,0
+611,SPOT-Truck 0342,ACTIVE,Operating lease,2024-07-01,141727,4130,2024-07-01,2027-07-01,Ryder Truck Rental,Freightliner,Cascadia,2024,347093,,199725,5-10-2025 14:20:39,0,,0,0,0
+613,Truck 0550,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,freightliner,TT,2007,0,,109539,4-9-2025 19:58:38,0,,0,0,0
+615,Truck 0971,INACTIVE,Owner Operator Owned,02/16/2024,0,0,,,,KENWORTH,TR,2018,,,,,,,,0,
+616,Truck 0972,INACTIVE,Owner Operator Owned,10/06/2023,0,0,,,,Freightliner,-,2018,,,,,,,,0,
+617,Truck 0973,INACTIVE,Owner Operator Owned,01/05/2024,0,0,,,,Western Star,Western Star,2001,,,,,,,,0,
+618,Truck 0974,INACTIVE,Owner operator owned,,0,0,,,,,,0,0,,,,0,,0,0,0
+619,Truck 0976,INACTIVE,Owner operator owned,,0,0,,,,KENWORTH,TT,2020,0,,,,0,,0,0,0
+620,Truck 0977,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TT,2003,0,,,,0,,0,0,0
+622,SPOT-Truck 0205,ACTIVE,Lease Purchase,2024-10-01,217200,3295,2024-10-01,2029-10-01,Cresco Capital Inc,Kenworth,T680,2024,950,,129202,5-12-2025 2:15:00,0,,19500,8.44,0
+623,SPOT-Truck 0050,ACTIVE,Financed,2021-06-01,144417,2385,2021-06-01,2026-12-01,PACCAR Financial Corp,Peterbilt,579,2022,4033,,524043,5-12-2025 6:57:04,63051,29-04-25,14441.7,7.09,0
+625,Truck 0555,ACTIVE,Owner operator owned,2025-01-01,0,0,,,Mojoacc Inc,International,TT,2021,0,,396576,5-12-2025 9:24:34,0,,0,0,0
+626,Truck 0889,INACTIVE,Owner Operator Owned,07/12/2024,0,0,07/12/2024,,American Eli Truck Network,KENWORTH,T58,2021,,,,,,,,0,
+627,Truck 0754,INACTIVE,Owner Operator Owned,05/06/2024,0,0,05/06/2024,,Emole Kalu,Freightliner,TT,2017,,,,,,,,0,
+628,Truck 0981,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TT,2013,0,,,,0,,0,0,0
+629,Truck 0982,INACTIVE,Owner operator owned,,0,0,,,,Freightliner,TT,2015,0,,,,0,,0,0,0
+630,Truck 0262,INACTIVE,Owner Operator Owned,10/10/2023,0,0,10/10/2023,,Power Move logistics,VOLVO,-,2012,,,,,,,,0,
+631,Truck 0023,INACTIVE,Owner Operator Owned,12/11/2023,0,0,,,,Freightliner,-,2019,,,,,,,,0,
+634,SPOT-Truck 0489,ACTIVE,Operating lease,2024-12-01,172227,4590.31,2025-01-01,2030-01-01,Ryder Truck Rental,Freightliner,Cascadia,2025,40,,57298,5-12-2025 9:23:08,0,,0,0,0
+635,Truck 0558,ACTIVE,Owner Operator Owned,05/21/2024,0,0,05/21/2024,,Shakira Johnson,International,TT,2020,,,646616,5-9-2025 22:12:39,,,,0,
+636,Truck 0439,INACTIVE,Owner Operator Owned,01/05/2024,0,0,,,,Freightliner,Cascadia 125,2018,,,,,,,,0,
+637,Truck 0986,INACTIVE,Owner Operator Owned,08/07/2024,0,0,08/07/2024,,,Freightliner,CASCADIA,1997,,,,,,,,0,
+638,SPOT-Truck 0355,ACTIVE,Operating lease,2024-10-01,187312,4901,2024-10-01,2028-10-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,68,,90505,5-12-2025 9:24:58,0,,0,0,0
+639,Truck 0842,INACTIVE,Owner Operator Owned,06/10/2024,0,0,06/10/2024,,Sultan expres llc,VOLVO,TT,2016,,,,,,,,0,
+641,Truck 0989,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,volvo,TT,2013,865733,,,,0,,0,0,0
+642,Truck 0991,INACTIVE,Owner operator owned,,0,0,,,Cargoline logistics inc,freightliner,TT,2019,0,,,,0,,0,0,0
+644,Truck 0155,ACTIVE,Owner Operator Owned,05/10/2024,0,0,05/10/2024,,IBEROSTAR LLC,VOLVO,TT,2017,,,924520,5-12-2025 5:42:21,,,,0,
+645,SPOT-Truck 0218,ACTIVE,Lease Purchase,2023-12-01,198045,3908,2023-12-01,2028-12-01,"TPine Leasing Capital, L.P.",Peterbilt,579,2024,14553,,236938,4-16-2025 21:47:07,0,,19800,11.38,101
+646,Truck 0081,ACTIVE,Financed,2024-03-01,114562.5,2642,2024-03-01,2029-03-01,"KLC Financial, LLC",Peterbilt,579,2022,399798,,442667,5-12-2025 3:39:07,0,,11456.25,13.6,0
+647,SPOT-Truck 0121,ACTIVE,Financed,2024-08-01,115950,2892.31,2024-08-01,2029-08-01,"Green Truck Financial, LLC.",Freightliner,Cascadia,2023,98363,,234015,5-11-2025 11:18:49,94768,29-04-25,0,16.49,0
+648,Truck 0436,INACTIVE,Owner Operator Owned,06/16/2023,0,0,06/16/2023,,Small Change Tr,VOLVO,TT,2019,,,,,,,,0,
+649,Truck 0305,INACTIVE,Owner Operator Owned,12/07/2023,0,0,,,,Freightliner,Coronado,2003,,,,,,,,0,
+650,Truck 0698,INACTIVE,Owner operator owned,,0,0,,,,Freightliner,Cascadia 125,2014,0,,,,0,,0,0,0
+651,Truck 0999,INACTIVE,Owner operator owned,,0,0,,,,Peterbilt,TT,1990,0,,,,0,,0,0,0
+654,Truck 0220,INACTIVE,Owner Operator Owned,10/30/2023,0,0,10/30/2023,,DJ Transport LLC,Freightliner,Cascadia,2017,,,,,,,,0,
+655,Truck 0623,INACTIVE,Owner Operator Owned,,0,0,,,,Freightliner,TR,2018,,,,,,,,0,
+656,Truck 0281,INACTIVE,Owner Operator Owned,11/17/2023,0,0,11/17/2023,,YUAN HENG EXPRESS LLC,Freightliner,Cascadia,2016,,,,,,,,0,
+657,Truck 0379,inactive,Owner operator owned,,0,0,,,Temp Vendor,Freightliner,Cascadia,2021,438839,,,,0,,0,0,0
+658,Truck 1003,INACTIVE,Owner operator owned,,0,0,,,,FREIGHTLINER,CASCADIA,2019,0,,,,0,,0,0,0
+659,Truck 1004,INACTIVE,Owner operator owned,2024-10-02,,,,,Keith Edward Gibson,kenworth,Construction,2017,,,,,,,,,
+660,Truck 0480,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,volvo,TR,2018,633815,,,,0,,0,0,0
+661,Truck 0199,INACTIVE,Owner Operator Owned,08/28/2023,0,0,,,Terrance Oglesby,Freightliner,TR,2018,,,,,,,,0,
+665,SPOT-Truck 0048,ACTIVE,Lease Purchase,2023-08-01,197555,4008,2023-08-01,2028-08-01,"TPine Leasing Capital, L.P.",Freightliner,Cascadia,2024,69811,,277467,5-12-2025 9:26:21,0,,15000,10.67,101
+666,Truck 0610,INACTIVE,Owner Operator Owned,04/15/2024,0,0,04/15/2024,,Jairon Fortuna,VOLVO,TT,2016,,,,,,,,0,
+668,Truck 1009,INACTIVE,Owner Operator Owned,06/26/2024,0,0,06/26/2024,,,VOLVO,TR,2017,,,,,,,,0,
+669,Truck 0936,INACTIVE,Owner operator owned,,0,0,,,jeddyloadtrucking,Kenworth,TT,2020,0,,,,0,,0,0,0
+670,SPOT-Truck 0569,active,Lease Purchase,2025-01-01,175000,3575,2025-01-01,2030-01-01,HEC Leasing LLC,Peterbilt,579,2025,771,,28138,5-12-2025 4:47:48,0,,0,11.9,25000
+671,Truck 0258,ACTIVE,Owner Operator Owned,06/28/2024,0,0,06/28/2024,,Ceejays logistics LLC,Freightliner,Cascadia,2018,,,579813,5-9-2025 17:00:13,,,,0,
+672,Truck 0983,INACTIVE,Owner operator owned,2024-09-25,,,,,DSL llc,Freightliner,Cascadia,2017,,,,,,,,,
+673,Truck 0710,INACTIVE,Owner Operator Owned,04/01/2024,0,0,04/01/2024,,LARGER THAN LIFE LLC,INTERNATIONAL,TR,2018,,,,,,,,0,
+674,Truck 0573,ACTIVE,Owner operator owned,2025-01-01,0,0,,,Mojoacc Inc,International,TT,2021,0,,391837,5-11-2025 20:05:09,0,,0,0,0
+675,Truck 1016,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,Cascadia 126,2019,0,,,,0,,0,0,0
+676,Truck 1019,INACTIVE,Owner Operator Owned,03/18/2024,0,0,03/18/2024,,Rightway Transport LLC,Freightliner,TT,2012,,,,,,,,0,
+677,Truck 0204,INACTIVE,Owner Operator Owned,11/07/2023,0,0,,,Tblow Trucking,Kenworth,Con,2015,,,,,,,,0,
+678,Truck 0075,INACTIVE,Owner Operator Owned,06/13/2023,0,0,,,C T MADDEN TRUCKING INC.,Freightliner,Cascadia,2023,,,,,,,,0,
+679,Truck 0690,INACTIVE,Owner Operator Owned,03/25/2024,0,0,03/25/2024,,CH Carrier LLC,KENWORTH,TT,2016,,,,,,,,0,
+680,Truck 1025,INACTIVE,Owner Operator Owned,06/20/2024,0,0,06/20/2024,,James Bradley,PETERBILT,TT,2020,,,,,,,,0,
+681,Truck 1017,INACTIVE,Owner operator owned,2024-10-16,,,,,Monica Cherry,freightliner,PT1,2021,,,,,,,,,
+682,Truck 0844,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,Freightliner,Cascadia,2019,0,,,,0,,0,0,0
+683,Truck 0011,ACTIVE,Owner operator owned,,0,0,,,STEVE ALIUK,FREIGHTLINER,CASCADIA,2016,0,,619347,5-12-2025 7:50:14,0,,0,0,0
+684,Truck 0299,ACTIVE,Owner operator owned,2024-10-10,,,,,Amu freight llc,freightliner,TT,2018,,,643920,5-10-2025 16:29:50,,,,,
+685,SPOT-Truck 0375,ACTIVE,Lease Purchase,2024-02-01,168000,3720,2024-02-01,2028-02-01,AAA Lease LLC,International,LT625,2024,1571,,222770,5-12-2025 9:25:28,0,,5000,11.81,34000
+686,Truck 0867,INACTIVE,Owner Operator Owned,06/25/2024,0,0,06/25/2024,,First Class Freight LLC,Freightliner,CASCADIA,2020,,,,,,,,0,
+687,Truck 0534,INACTIVE,Owner Operator Owned,10/26/2023,0,0,10/26/2023,,KTN Logistics LLC,INTERNATIONAL,LT625,2019,,,,,,,,0,
+688,Truck 0662,INACTIVE,Owner operator owned,,0,0,,,,VOLVO,TR,2018,0,,,,0,,0,0,0
+689,Truck 0552,INACTIVE,Owner Operator Owned,01/24/2024,0,0,01/24/2024,,KEG Trucking LLC,KENWORTH,TT,2019,,,,,,,,0,
+690,SPOT-Truck 1031,INACTIVE,FMV lease,2021-04-01,154500,3934.55,2021-04-01,2025-10-01,Penske,International,LT 626,2022,,,,,,,,0,
+691,Truck 0781,ACTIVE,Owner operator owned,,0,0,,,,FREIGHTLINER,Cascadia,2021,0,,,,0,,0,0,0
+692,Truck 1033,INACTIVE,Owner operator owned,,0,0,,,,Freightliner,TT,2018,0,,,,0,,0,0,0
+693,Truck 0676,INACTIVE,Owner Operator Owned,03/13/2024,0,0,03/13/2024,,Jason Plant,Freightliner,TT,2018,,,,,,,,0,
+694,Truck 0787,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TT,2017,0,,,,0,,0,0,0
+695,SPOT-Truck 0397,ACTIVE,Financed,2024-10-01,123000,3536.4,2024-10-01,2027-10-01,Y&C Truck Capital Premium LLC,Freightliner,Cascadia,2023,188989,,294274,5-12-2025 5:01:17,94212,29-04-25,23500,14.99,0
+696,SPOT-Truck 0100,ACTIVE,Financed,2024-09-01,110500,2636,2024-09-01,2029-03-01,"RTS Financial Service, Inc",Freightliner,Cascadia,2023,109679,,208711,5-12-2025 5:17:59,95328,29-04-25,19050,11.6,0
+698,Truck 0284,INACTIVE,Owner Operator Owned,04/09/2024,0,0,04/09/2024,,Jardz Transport,VOLVO,TT,2015,,,,,,,,0,
+699,Truck 0143,INACTIVE,Owner operator owned,2024-08-01,0,0,2024-08-01,,David Crank,Freightliner,TT,2003,0,,,,0,,0,0,0
+700,Truck 1040,INACTIVE,Owner operator owned,,,,,,Temp Vendor,kenworth,tt,2007,,,,,,,,,
+701,Truck 1042,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TT,2012,0,,,,0,,0,0,0
+702,Truck 0894,INACTIVE,Owner Operator Owned,07/09/2024,0,0,07/09/2024,,VOLNY?S transportation Services LLC,Freightliner,CASCADIA,2015,,,,,,,,0,
+705,Truck 0566,INACTIVE,Owner Operator Owned,01/25/2024,0,0,,,,VOLVO,TR,2007,,,,,,,,0,
+706,Truck 1045,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,kenworth,TT,2019,0,,,,0,,0,0,0
+707,SPOT-Truck 0303,ACTIVE,Lease Purchase,2024-01-01,170176.67,3665,2024-01-01,2028-07-01,"TPine Leasing Capital, L.P.",Peterbilt,579,2024,12256,,241153,5-12-2025 1:21:24,0,,17017.67,11.75,101
+708,Truck 0188,ACTIVE,Owner operator owned,2024-10-06,,,,,RLS Freight and Dispatch LLC,International,TT,2019,,,490799,5-11-2025 22:23:50,,,,,
+709,SPOT-Truck 0190,ACTIVE,Financed,2024-07-01,111000,2622.28,2024-07-01,2029-07-01,"Green Truck Financial, LLC.",Freightliner,Cascadia,2023,99224,,221316,5-9-2025 12:30:06,94968,29-04-25,0,13.99,0
+710,SPOT-Truck 0238,INACTIVE,Rental,2024-08-01,0,3728,2024-08-01,,Ryder Truck Rental,Freightliner,Cascadia,2020,547343,,,,0,,0,0,0
+711,Truck 0090,INACTIVE,Owner Operator Owned,04/05/2023,0,0,,,Dfn trucking llc,Volvo,-,2007,,,,,,,,0,
+712,Truck 0520,INACTIVE,Owner Operator Owned,05/06/2024,0,0,05/06/2024,,Reaper Tranz LLC,KENWORTH,TT,2020,,,,,,,,0,
+713,Truck 0769,INACTIVE,Owner Operator Owned,05/09/2024,0,0,05/09/2024,,McPrimes Express LLC,INTERNATIONAL,TR,2018,,,,,,,,0,
+714,Truck 0775,INACTIVE,Owner Operator Owned,05/06/2024,0,0,05/06/2024,,BS Gouba Trucking & LOGISTICS INCS,Freightliner,TT,2020,,,,,,,,0,
+715,Truck 1055,INACTIVE,Owner Operator Owned,04/29/2024,0,0,04/29/2024,,,PETERBILT,TT,2001,,,,,,,,0,
+716,SPOT-Truck 0352,ACTIVE,Operating lease,2024-10-01,185000,4229,2024-11-01,2027-08-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,2063,,89629,5-12-2025 9:26:28,0,,0,0,0
+717,SPOT-Truck 0160,ACTIVE,Lease Purchase,2024-11-01,67590,1495,2024-11-01,2028-03-01,Cresco Capital Inc,Kenworth,T680,2020,595340,,532011,5-10-2025 20:42:09,47154,29-04-25,7790,6.6,7790
+718,Truck 0590,ACTIVE,Owner Operator Owned,04/05/2024,0,0,04/05/2024,,RLS Freight and Dispatch LLC,International,TT,2020,,,617614,5-6-2025 20:47:14,,,,0,
+719,Truck 0553,INACTIVE,Owner Operator Owned,01/29/2024,0,0,,,,Freightliner,TT,2016,,,,,,,,0,
+720,Truck 0651,INACTIVE,Owner operator owned,,0,0,,,,volvo,TT,2015,0,,,,0,,0,0,0
+721,Truck 0886,INACTIVE,Owner Operator Owned,07/01/2024,0,0,07/01/2024,,Andre Lesignor Thomas,Freightliner,CASCADIA,2020,,,,,,,,0,
+722,Truck 0804,INACTIVE,Owner Operator Owned,05/20/2024,0,0,05/20/2024,,Sherer Express Trucking LLC,Freightliner,TT,2013,,,,,,,,0,
+723,Truck 1061,INACTIVE,Owner Operator Owned,06/21/2024,0,0,06/21/2024,,Andy Andujar,PETERBILT,579,2012,,,,,,,,0,
+724,SPOT-Truck 0282,ACTIVE,Lease Purchase,2024-07-01,175500,3889.22,2024-08-01,2029-08-01,Impel Leasing LLC,Kenworth,T680,2025,420,,118339,5-11-2025 21:47:15,0,,0,11.83,1
+725,Truck 0812,INACTIVE,Owner Operator Owned,05/24/2024,0,0,05/24/2024,,Mackey Transport LLC,KENWORTH,TT,2020,,,,,,,,0,
+726,Truck 1062,INACTIVE,Owner Operator Owned,02/20/2024,0,0,,,Mccarver Family Trucking LLC,KENWORTH,T680,2017,,,,,,,,0,
+727,Truck 0012,INACTIVE,Owner Operator Owned,04/03/2024,0,0,04/03/2024,,DED TRUCKING,INTERNATIONAL,TT,2018,,,,,,,,0,
+729,Truck 0290,INACTIVE,Owner Operator Owned,12/08/2023,0,0,12/08/2023,,Anni Kotudi,International,TT,2016,,,,,,,,0,
+730,SPOT-Truck 0212,ACTIVE,Financed,2023-02-01,110864.5,2564.25,2023-02-01,2028-02-01,Engs Commercial Finance Co.,Peterbilt,579,2022,114453,,409111,5-12-2025 3:41:48,66420,29-04-25,8000,16.42,0
+731,SPOT-Truck 1064,INACTIVE,Rental,2024-10-01,0,3728,2024-11-01,,Ryder Truck Rental,Freightliner,Cascadia,2020,517685,,,,0,,0,0,0
+732,Truck 0890,INACTIVE,Owner Operator Owned,07/15/2024,0,0,07/15/2024,,Amman logistics LLC,Freightliner,CASCADIA,2017,,,,,,,,0,
+733,Truck 0897,INACTIVE,Owner Operator Owned,07/12/2024,0,0,07/12/2024,,The great king,VOLVO,TR,2016,,,,,,,,0,
+734,Truck 1065,INACTIVE,Owner Operator Owned,04/24/2024,0,0,04/24/2024,,,VOLVO,TT,2006,,,,,,,,0,
+736,Truck 0792,INACTIVE,Owner Operator Owned,05/13/2024,0,0,05/13/2024,,Charles Cremeens,PETERBILT,567,2017,,,,,,,,0,
+738,SPOT-Truck 0019,ACTIVE,Lease Purchase,2023-12-01,198045,3908,2023-12-01,2028-12-01,"TPine Leasing Capital, L.P.",Peterbilt,579,2024,152035,,206345,5-10-2025 19:04:44,0,,19800,11.38,101
+739,Truck 0579,INACTIVE,Owner Operator Owned,08/23/2024,0,0,08/23/2024,,Salween Transports Inc,Kenworth,TT,2019,,,,,,,,0,
+740,SPOT-Truck 0267,ACTIVE,Operating lease,2023-04-01,120406,4070,2023-04-01,2027-04-01,Penske,Freightliner,Cascadia,2022,400354,,438972,5-7-2025 0:41:56,67070,29-04-25,0,0,0
+741,Truck 1066,INACTIVE,Owner operator owned,,0,0,,,,Freightliner,,2021,0,,,,0,,0,0,0
+742,SPOT-Truck 0096,ACTIVE,Lease Purchase,2024-04-01,175000,3900,2024-04-01,2028-04-01,AAA Lease LLC,Peterbilt,579,2024,1000,,178161,5-12-2025 9:24:30,0,,10000,13.35,35000
+744,Truck 0601,ACTIVE,Owner operator owned,2025-01-01,0,0,,,Pmy Transportation,freightliner,TT,2014,0,,677528,5-11-2025 19:55:42,0,,0,0,0
+745,Truck 0833,INACTIVE,Owner Operator Owned,01/18/2024,0,0,01/18/2024,,GBOB Logistics LLC,FRHT,TT,2017,,,,,,,,0,
+746,Truck 0905,INACTIVE,Owner Operator Owned,07/25/2024,0,0,07/25/2024,,Iceberg Trucking LLC,Freightliner,CASCADIA,2019,,,,,,,,0,
+747,Truck 0915,INACTIVE,Owner Operator Owned,09/19/2023,0,0,09/19/2023,,Sonnecto LLC,KENWORTH,TT,2018,,,,,,,,0,
+749,Truck 0477,INACTIVE,Owner Operator Owned,11/29/2023,0,0,11/29/2023,,Harl Company Transportation LLC,Freightliner,-,2018,,,,,,,,0,
+750,Truck 1067,INACTIVE,Owner Operator Owned,06/21/2024,0,0,06/21/2024,,,PETERBILT,TT,2008,,,,,,,,0,
+751,Truck 0133,INACTIVE,Owner Operator Owned,11/09/2023,0,0,,,Joshco service inc,Freightliner,Cascadia,2017,,,,,,,,0,
+752,Truck 0416,INACTIVE,Owner Operator Owned,05/22/2024,0,0,05/22/2024,,Kelvnosa mega llc,Freightliner,TR,2014,,,,,,,,0,
+754,Truck 0209,INACTIVE,Owner Operator Owned,10/11/2023,0,0,,,Kamara Trucking LLC,FRHT,PT1,2019,,,,,,,,0,
+755,Truck 0777,INACTIVE,Owner Operator Owned,05/08/2024,0,0,05/08/2024,,Robert Trucking LLC,Freightliner,TR,2017,,,,,,,,0,
+756,Truck 0099,INACTIVE,Owner Operator Owned,09/20/2023,0,0,,,Top Level Express LLC,Freightliner,Cascadia,2020,,,,,,,,0,
+764,SPOT-Truck 0429,ACTIVE,Lease Purchase,2024-07-01,175500,3889.22,2024-07-01,2029-07-01,Impel Leasing LLC,Kenworth,T680,2025,2631,,106852,5-12-2025 1:31:04,0,,0,11.83,1
+765,Truck 0740,INACTIVE,Owner Operator Owned,04/23/2024,0,0,04/23/2024,,,PETERBILT,TR,1999,,,,,,,,0,
+766,Truck 0864,INACTIVE,Owner Operator Owned,06/21/2024,0,0,06/21/2024,,Watters Reliable Logistics LLC,Freightliner,TR,2012,,,,,,,,0,
+767,Truck 1070,INACTIVE,Owner Operator Owned,04/10/2024,0,0,04/10/2024,,Parker Logistics Incorporate LLC,KENWORTH,TT,2014,,,,,,,,0,
+768,Truck 0934,INACTIVE,Owner Operator Owned,08/14/2024,0,0,08/14/2024,,,Freightliner,Cascadia 125,2017,,,,,,,,0,
+770,Truck 1071,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Tyree Enterprise LLC,Freightliner,Cascadia,2019,0,,,,0,,0,0,0
+771,Truck 0798,INACTIVE,Owner Operator Owned,05/17/2024,0,0,05/17/2024,,J&sons llc,Freightliner,TT,2019,,,,,,,,0,
+772,Truck 0097,INACTIVE,Owner Operator Owned,08/13/2024,0,0,08/13/2024,,Martin Jing,Freightliner,TT,2019,,,,,,,,0,
+773,Truck 0823,INACTIVE,Owner Operator Owned,06/04/2024,0,0,06/04/2024,,Philip-tein logistics llc,NHFRHT,TT,2017,,,,,,,,0,
+774,Truck 0447,INACTIVE,Owner Operator Owned,01/11/2024,0,0,,,YUAN HENG EXPRESS LLC,Freightliner,CASCADIA,2018,,,,,,,,0,
+775,SPOT-Truck 0154,ACTIVE,Operating lease,2023-12-01,213900,4829.5,2023-12-01,2027-12-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,25,,241806,5-9-2025 13:36:58,0,,0,0,0
+776,SPOT-Truck 0146,ACTIVE,Operating lease,2023-04-01,146928,4070,2023-04-01,2028-04-01,Penske,Freightliner,Cascadia,2023,1747,,432328,5-11-2025 21:31:36,89357,29-04-25,0,0,0
+777,Truck 0763,INACTIVE,Owner Operator Owned,05/06/2024,0,0,05/06/2024,,,VOLVO,TT,2015,,,,,,,,0,
+778,Truck 0874,ACTIVE,Owner Operator Owned,06/25/2024,0,0,06/25/2024,,GLOBAL FREIGHT INC,Freightliner,TT,2018,,,,,,,,0,
+779,Truck 0988,INACTIVE,Owner operator owned,,0,0,,,C Jones Trucking,freightliner,TT,2018,0,,,,0,,0,0,0
+780,Truck 0455,INACTIVE,Owner operator owned,2024-01-01,0,0,,,,Freightliner,TT,2007,0,,,,0,,0,0,0
+781,Truck 0108,INACTIVE,Owner operator owned,2025-01-01,0,0,,,GBOB LOGISTICS LLC,freightliner,TT,2018,0,,,,0,,0,0,0
+782,Truck 0802,INACTIVE,Owner Operator Owned,05/22/2024,0,0,05/22/2024,,DAFZZ TRANSPORT LLC,INTERNATIONAL,TT,2018,,,,,,,,0,
+783,Truck 0220,INACTIVE,Owner Operator Owned,10/30/2023,0,0,10/30/2023,,DJ Transport LLC,Freightliner,CASCADIA,2017,,,,,,,,0,
+785,SPOT-Truck 0036,ACTIVE,Operating lease,2023-04-01,122556,4070,2023-04-01,2027-04-01,Penske,Freightliner,Cascadia,2022,532643,,578050,5-11-2025 20:28:06,62344,29-04-25,0,0,0
+786,SPOT-Truck 0348,ACTIVE,Operating lease,2024-01-01,213900,4829.5,2024-01-01,2028-01-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,38,,225752,4-29-2025 15:10:24,0,,0,0,0
+787,SPOT-Truck 0061,ACTIVE,Operating lease,2024-01-01,213900,4829.5,2024-01-01,2028-01-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,39,,194899,5-12-2025 3:01:04,0,,0,0,0
+788,Truck 0671,INACTIVE,Owner Operator Owned,03/12/2024,0,0,03/12/2024,,Mccarver Family Trucking LLC,Freightliner,TT,2020,,,,,,,,0,
+789,Truck 0548,INACTIVE,Owner Operator Owned,01/24/2024,0,0,,,,Freightliner,TT,2021,,,,,,,,0,
+790,Truck 0613,ACTIVE,Owner operator owned,,0,0,,,S&E Global Shippers LLC,freightliner,TT,2021,0,,762007,5-12-2025 9:24:07,0,,0,0,0
+793,SPOT-Truck 0120,ACTIVE,Financed,2023-02-01,151100,3132,2023-02-01,2028-02-01,"Trans Lease, Inc",Peterbilt,579,2022,473738,,509944,5-12-2025 9:24:02,63441,29-04-25,7525,11.15,0
+794,Truck 1073,INACTIVE,Owner Operator Owned,08/12/2024,0,0,08/12/2024,,,Freightliner,CASCADIA,2016,,,,,,,,0,
+795,Truck 0626,INACTIVE,Owner Operator Owned,02/19/2024,0,0,,,KTN Logistics Inc,INTERNATIONAL,TT,2018,,,,,,,,0,
+798,SPOT-Truck 0472,ACTIVE,Operating lease,2024-12-01,172227,4590.31,2025-01-01,2030-01-01,Ryder Truck Rental,Freightliner,Cascadia,2025,1691,,71848,5-6-2025 13:46:10,0,,0,0,0
+799,Truck 0620,ACTIVE,Owner Operator Owned,06/11/2024,0,0,06/11/2024,,Michael Gipson,Freightliner,TT,2016,,,1071583,5-10-2025 2:56:49,,,,0,
+801,SPOT-Truck 0103,ACTIVE,Operating lease,2023-12-01,213900,4829.5,2023-12-01,2027-12-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,44,,245379,5-10-2025 21:16:15,0,,0,0,0
+802,Truck 1074,INACTIVE,Owner operator owned,2024-10-24,,,,,Eman Abdelhafez,volvo,TR,2014,,,,,,,,,
+803,Truck 0367,INACTIVE,Owner Operator Owned,12/15/2023,0,0,12/15/2023,,Mako trans llc,Freightliner,Cascadia,2018,,,,,,,,0,
+804,Truck 1077,INACTIVE,Owner Operator Owned,08/07/2024,0,0,08/07/2024,,,Freightliner,CASCADIA,2014,,,,,,,,0,
+805,Truck 1059,INACTIVE,Owner operator owned,2024-10-17,,,,,BJ and AS Logistics LLC,freightliner,TT,2014,,,,,,,,,
+806,Truck 1078,INACTIVE,Rental,2024-07-01,0,3600,2024-07-01,,Ryder Truck Rental,Freightliner,TR,2024,0,,,,0,,0,0,0
+807,Truck 1080,INACTIVE,Owner operator owned,,,,,,Temp Vendor,freightliner,TT,2001,,,,,,,,,
+808,Truck 1023,INACTIVE,Owner operator owned,2024-10-18,,,,,Abayomi Salu,freightliner,TT,2016,,,,,,,,,
+809,Truck 1000,INACTIVE,Owner operator owned,2024-10-07,,,,,Brandon Jackson,freightliner,TT,2017,,,,,,,,,
+810,Truck 1081,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,freightliner,TT,2015,0,,,,0,,0,0,0
+811,Truck 1082,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,volvo,TT,2016,0,,,,0,,0,0,0
+812,Truck 0996,INACTIVE,Owner operator owned,,0,0,,,Randy Williams,Peterbilt,TT,2015,0,,,,0,,0,0,0
+813,Truck 1021,INACTIVE,Owner operator owned,2024-10-19,,,,,Paradise speed LLC,Volvo,VNL,2015,,,,,,,,,
+814,SPOT-Truck 0187,ACTIVE,Operating lease,2023-06-01,161280,4485.33,2023-06-01,2028-12-01,Ryder Truck Rental,Freightliner,Cascadia,2024,168678,,272826,5-12-2025 1:01:00,0,,0,0,0
+815,SPOT-Truck 0627,ACTIVE,Lease Purchase,2025-01-01,175000,3575,2025-01-01,2030-01-01,HEC Leasing LLC,Peterbilt,579,2025,787,,55911,5-11-2025 22:11:33,0,,0,11.9,25000
+818,Truck 0859,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TT,2014,0,,,,0,,0,0,0
+819,Truck 0780,INACTIVE,Owner Operator Owned,05/09/2024,0,0,05/09/2024,,STATERA LOGISTICS INC,FRHT,Cascadia,2015,,,,,,,,0,
+820,Truck 1084,INACTIVE,Owner Operator Owned,08/06/2024,0,0,08/06/2024,,Salween Transports Inc,Freightliner,CASCADIA,2016,,,,,,,,0,
+821,Truck 1085,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,INTERNATIONAL,TT,2016,0,,,,0,,0,0,0
+822,Truck 0860,INACTIVE,Owner Operator Owned,06/20/2024,0,0,06/20/2024,06/20/2027,Pekinac Inc.,VOLVO,TT,2020,,,,,,,,0,
+823,Truck 1087,INACTIVE,Owner Operator Owned,07/26/2023,0,0,,,,VOLVO,780,2018,,,,,,,,0,
+824,Truck 0752,INACTIVE,Owner operator owned,,0,0,,,Acza Trucking LLC,freightliner,TT,2020,0,,,,0,,0,0,0
+825,Truck 0586,INACTIVE,Owner Operator Owned,08/09/2024,0,0,08/09/2024,,Earnest Barlow,International,TT,2015,,,,,,,,0,
+826,SPOT-Truck 0167,ACTIVE,Financed,2023-07-01,118505,2341,2023-07-01,2028-07-01,"KLC Financial, LLC",Freightliner,Cascadia,2021,250259,,539108,5-12-2025 3:37:20,50950,29-04-25,17775.75,13.95,0
+827,SPOT-Truck 0138,ACTIVE,Financed,2021-03-01,147900,2712,2021-04-01,2025-04-01,Capital Lending,Peterbilt,579,2022,1397,,539301,5-12-2025 6:02:58,62580,29-04-25,36350,8.77,0
+828,Truck 0911,INACTIVE,Owner Operator Owned,07/31/2024,0,0,07/31/2024,,,Freightliner,TT,2016,,,,,,,,0,
+829,Truck 1032,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,volvo,TR,2015,1191691,,,,0,,0,0,0
+833,Truck 0273,INACTIVE,Owner Operator Owned,09/09/2024,0,0,09/09/2024,,Bossman Trucking Inc5,Freightliner,TT,2016,,,,,,,,0,
+834,Truck 1088,INACTIVE,Owner Operator Owned,04/16/2024,0,0,04/16/2024,,Victorious Miles Transport,Freightliner,TT,2016,,,,,,,,0,
+837,Truck 1030,INACTIVE,Owner operator owned,2024-10-30,,,,,Paradise speed LLC,VOLVO,TT,2017,,,,,,,,,
+841,Truck 1008,INACTIVE,Owner operator owned,2024-10-10,,,,,Francisco Cruz,Peterbilt,TT,2009,,,,,,,,,
+847,Truck 1089,INACTIVE,Owner Operator Owned,05/07/2024,0,0,05/07/2024,,,Freightliner,TT,2019,,,,,,,,0,
+848,Truck 0564,INACTIVE,Owner Operator Owned,06/13/2024,0,0,06/13/2024,,A & T Freight Services LLC,Freightliner,TT,2017,,,,,,,,0,
+849,Truck 0145,INACTIVE,Owner Operator Owned,07/11/2023,0,0,,,,FRHT,CASCADIA,2023,,,,,,,,0,
+850,Truck 0822,INACTIVE,Owner Operator Owned,06/04/2024,0,0,06/04/2024,,First Class Freight LLC,KENWORTH,T-680,2020,,,,,,,,0,
+852,Truck 0513,INACTIVE,Owner operator owned,2024-01-15,0,0,,,All Pro Elite Logistics LLC,PETERBILT,TR,2016,,,,,,,,0,
+853,Truck 0420,INACTIVE,Owner Operator Owned,01/03/2024,0,0,,,,VOLVO,-,2019,,,,,,,,0,
+856,Truck 0490,INACTIVE,Owner Operator Owned,07/10/2024,0,0,07/10/2024,,VAS Logistics,Freightliner,CASCADIA,2019,,,,,,,,0,
+857,Truck 0544,INACTIVE,Owner Operator Owned,01/22/2024,0,0,,,,Freightliner,TR,2017,,,,,,,,0,
+858,Truck 0500,INACTIVE,Owner Operator Owned,01/15/2024,0,0,,,,INTERNATIONAL,-,2017,,,,,,,,0,
+859,Truck 0150,INACTIVE,Owner Operator Owned,09/22/2023,0,0,,,Hargrove Trucking LLC,Kenworth,T680,2014,,,,,,,,0,
+861,Truck 0469,INACTIVE,Owner Operator Owned,2024-08-21,0,0,2024-08-21,,Silversterlingllc,Kenworth,CONSTRUCTION,2020,,,,,,,,0,
+862,Truck 0153,INACTIVE,Owner Operator Owned,07/20/2023,0,0,07/20/2023,,Khun Naung,KENWORTH,CONSTRUCTION,2019,,,,,,,,0,
+863,SPOT-Truck 0076,ACTIVE,Operating lease,2023-04-01,105351,4070,2023-04-01,2027-04-01,Penske,Freightliner,Cascadia,2022,440654,,492557,5-11-2025 23:04:07,65386,29-04-25,0,0,0
+864,Truck 0947,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,Freightliner,Cascadia,2025,0,,,,0,,0,0,0
+865,Truck 0853,INACTIVE,Owner Operator Owned,06/17/2024,0,0,06/17/2024,,R Shockley Enterprises LLC,Freightliner,TR,2007,,,,,,,,0,
+866,SPOT-Truck 0234,INACTIVE,Lease Purchase,2023-04-01,141555,3898,2023-04-01,2027-04-01,"TPine Leasing Capital, L.P.",Peterbilt,579,2022,0,,,,0,,21800,13.9,101
+867,Truck 0335,INACTIVE,Owner Operator Owned,11/11/2021,0,0,,,,Freightliner,Cascadia,2016,,,,,,,,0,
+868,Truck 0251,INACTIVE,Owner Operator Owned,08/14/2024,0,0,08/14/2024,,Ercule & L services llc,Freightliner,TT,2015,,,,,,,,0,
+871,SPOT-Truck 0250,ACTIVE,Operating lease,2023-08-01,167263,4122.35,2023-08-01,2029-02-01,Ryder Truck Rental,Freightliner,Cascadia,2024,57,,141615,5-12-2025 9:24:28,0,,0,0,0
+872,Truck 0293,INACTIVE,Owner Operator Owned,05/08/2023,0,0,05/08/2023,,Marathon Llogistics LLC,VOLVO,-,2007,,,,,,,,0,
+875,SPOT-Truck 0201,ACTIVE,Financed,2021-05-01,142900,2653.29,2021-05-01,2026-05-01,Ally Financial,Peterbilt,579,2022,27,,524656,5-12-2025 4:34:59,63018,29-04-25,14000,8.64,0
+877,Truck 0347,INACTIVE,Owner Operator Owned,12/14/2023,0,0,12/14/2023,,TWT GONZALEZ TRUCKING LLC,Freightliner,Coronado,2006,,,,,,,,0,
+878,Truck 0594,INACTIVE,Owner Operator Owned,02/09/2024,0,0,,,,INTERNATIONAL,TT,2018,,,,,,,,0,
+879,Truck 0495,INACTIVE,Owner Operator Owned,01/11/2024,0,0,,,,INTERNATIONAL,TR,2016,,,,,,,,0,
+880,Truck 0563,INACTIVE,Owner Operator Owned,01/25/2024,0,0,,,,KENWORTH,TT,2024,,,,,,,,0,
+881,Truck 0283,INACTIVE,Owner Operator Owned,06/29/2022,0,0,06/29/2022,,George Wayne Pink,KENWORTH,TT,2020,,,,,,,,0,
+882,Truck 0687,INACTIVE,Owner Operator Owned,04/08/2024,0,0,04/08/2024,,Sasho Mitrevski,VOLVO,VN,2014,,,,,,,,0,
+884,Truck 0785,INACTIVE,Owner Operator Owned,09/19/2024,0,0,09/19/2024,,,Freightliner,TT,2016,,,,,,,,0,
+885,Truck 0324,INACTIVE,Owner Operator Owned,08/12/2024,0,0,08/12/2024,,HellHound Transport,PETERBILT,TT,2016,,,,,,,,0,
+886,Truck 0796,inactive,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,freightliner,TT,2018,0,,,,0,,0,0,0
+887,Truck 0828,INACTIVE,Owner Operator Owned,06/05/2024,0,0,06/05/2024,,Big Boi Logistics LLC,PETERBILT,579,2015,,,,,,,,0,
+889,Truck 0288,INACTIVE,Owner Operator Owned,2024-09-03,0,0,2024-09-03,,Tsttsenterprise LLC,INTERNATIONAL,Prostar,2016,,,,,,,,0,
+894,Truck 0246,INACTIVE,Owner Operator Owned,11/15/2023,0,0,,,Glorified enterprise,FRHT,Cascadia 126,2021,,,,,,,,0,
+895,Truck 1002,INACTIVE,Owner Operator Owned,09/18/2024,0,0,09/18/2024,,,PETERBILT,TT,2016,,,,,,,,0,
+897,Truck 0744,INACTIVE,Owner Operator Owned,04/29/2024,0,0,04/29/2024,,,FRHT,TT,2010,,,,,,,,0,
+898,Truck 1096,INACTIVE,Owner Operator Owned,02/15/2024,0,0,,,,Freightliner,TT,2019,,,,,,,,0,
+900,Truck 0641,ACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,freightliner,TT,2018,0,,718655,3-24-2025 17:33:21,0,,0,0,0
+901,Truck 0929,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,Peterbilt,TT,2020,435716,,,,0,,0,0,0
+902,Truck 0496,INACTIVE,Owner Operator Owned,05/15/2024,0,0,05/15/2024,,Freeway Hawgs llc,Freightliner,TT,2012,,,,,,,,0,
+904,Truck 0640,INACTIVE,Owner Operator Owned,08/02/2024,0,0,08/02/2024,,Louisa enterprises,International,TT,2019,,,,,,,,0,
+905,SPOT-Truck 0745,INACTIVE,Rental,2024-08-01,0,3728,2024-08-01,,Ryder Truck Rental,Freightliner,TR,2020,0,,,,0,,0,0,0
+906,Truck 1097,INACTIVE,Owner Operator Owned,05/06/2024,0,0,05/06/2024,,,Freightliner,TT,2015,,,,,,,,0,
+908,Truck 1098,INACTIVE,Owner Operator Owned,07/15/2024,0,0,07/15/2024,,,Freightliner,TT,2019,,,,,,,,0,
+911,SPOT-Truck 1076,INACTIVE,Rental,2024-11-01,0,3728,2024-12-01,,Ryder Truck Rental,Freightliner,Cascadia,2022,525179,,,,0,,0,0,0
+913,Truck 0672,INACTIVE,Owner Operator Owned,08/30/2024,0,0,08/30/2024,,Solid Mile LLC,Freightliner,TT,2017,,,,,,,,0,
+921,Truck 0658,INACTIVE,Owner operator owned,,0,0,,,,KENWORTH,TT,2018,0,,,,0,,0,0,0
+922,Truck 1100,INACTIVE,Owner Operator Owned,07/02/2024,0,0,07/02/2024,,,KENWORTH,TT,2016,,,,,,,,0,
+924,Truck 0718,INACTIVE,Owner operator owned,,0,0,,,Ryoung Transportation LLC,International,TT,2019,0,,,,0,,0,0,0
+926,Truck 0849,INACTIVE,Owner Operator Owned,06/12/2024,0,0,06/12/2024,,DAFZZ TRANSPORT LLC,Freightliner,TT,2015,,,,,,,,0,
+927,Truck 1102,INACTIVE,FMV lease,,0,0,,,Penske,-,-,0,,,,,,,,0,
+935,Truck 1103,INACTIVE,Owner Operator Owned,05/16/2024,0,0,05/16/2024,,Caravan Carriers Inc,Freightliner,Con,2012,,,,,,,,0,
+936,SPOT-Truck 0390,INACTIVE,Rental,2024-08-01,0,3728,2024-08-01,,Ryder Truck Rental,Freightliner,Cascadia,2022,540916,,,,0,,0,0,0
+937,Truck 0574,INACTIVE,Owner Operator Owned,01/25/2024,0,0,,,,VOLVO,TT,2016,,,,,,,,0,
+943,Truck 0498,INACTIVE,Owner Operator Owned,01/16/2024,0,0,,,,INTERNATIONAL,TR,2015,,,,,,,,0,
+944,Truck 0902,INACTIVE,Owner Operator Owned,07/22/2024,0,0,07/22/2024,,Bcwj inc,Freightliner,CASCADIA,2018,,,,,,,,0,
+945,Truck 0916,INACTIVE,Owner Operator Owned,08/06/2024,0,0,08/06/2024,,,VOLVO,VNL 64780,2023,,,,,,,,0,
+946,Truck 0876,INACTIVE,Owner Operator Owned,06/20/2024,0,0,06/20/2024,,KBD Trucking LLc,Freightliner,TT,2021,,,,,,,,0,
+947,Truck 0956,INACTIVE,Owner Operator Owned,07/12/2024,0,0,07/12/2024,,A & T Freight Services LLC,Freightliner,TT,2000,,,,,,,,0,
+948,Truck 0605,INACTIVE,Owner Operator Owned,02/07/2024,0,0,02/07/2024,,JD's Transport,INTERNATIONAL,TT,2020,,,,,,,,0,
+949,Truck 0883,INACTIVE,Owner Operator Owned,07/12/2024,0,0,07/12/2024,,American Eli Truck Network,KENWORTH,TT,2021,,,,,,,,0,
+956,Truck 0240,INACTIVE,Owner Operator Owned,11/14/2023,0,0,,,Farhang Zare,VOLVO,TT,2016,,,,,,,,0,
+957,Truck 0512,INACTIVE,Owner Operator Owned,07/26/2024,0,0,07/26/2024,,U N I Transports LLC,VOLVO,TT,2006,,,,,,,,0,
+958,Truck 0588,INACTIVE,Owner Operator Owned,02/02/2024,0,0,,,Abdullahi Abdi,Freightliner,Cascadia,2016,,,,,,,,0,
+959,Truck 0059,INACTIVE,Owner Operator Owned,11/09/2023,0,0,11/09/2023,,Alj logistics,Freightliner,Cascadia,2019,,,,,,,,0,
+960,Truck 0699,INACTIVE,Owner Operator Owned,08/08/2024,0,0,08/08/2024,,Janelle Trucking Llc,VOLVO,TT,2015,,,,,,,,0,
+966,Truck 0611,INACTIVE,Owner Operator Owned,02/12/2024,0,0,,,Texas G&H Trucking LLC,PETERBILT,TT,2019,,,,,,,,0,
+970,Truck 0654,INACTIVE,Owner Operator Owned,03/04/2024,0,0,,,Diton Nasufi,KENWORTH,T680,2021,,,,,,,,0,
+971,Truck 0721,INACTIVE,Owner Operator Owned,04/15/2024,0,0,04/15/2024,,Patricia Ryan,Freightliner,TT,2004,,,,,,,,0,
+972,Truck 0871,INACTIVE,Owner Operator Owned,07/01/2024,0,0,07/03/2024,,steddum transportition llc,KENWORTH,TT,2020,,,,,,,,0,
+973,Truck 0464,INACTIVE,Owner Operator Owned,09/15/2023,0,0,,,Culver Transportation,Volvo,TK,2012,,,,,,,,0,
+974,Truck 0858,INACTIVE,Owner Operator Owned,06/07/2024,0,0,06/07/2024,,GBOB Logistics LLC,FRHT,CASCADIA,2019,,,,,,,,0,
+975,Truck 1105,INACTIVE,Owner operator owned,,0,0,,,,Kenworth,-,2018,0,,,,0,,0,0,0
+979,Truck 0570,INACTIVE,Owner Operator Owned,01/26/2024,0,0,,,,KENWORTH,TT,2015,,,,,,,,0,
+981,Truck 0419,INACTIVE,Owner Operator Owned,01/02/2024,0,0,,,Smooth Riders & Logistics,INTERNATIONAL,-,2007,,,,,,,,0,
+990,Truck 0907,INACTIVE,Owner Operator Owned,07/25/2024,0,0,07/25/2024,,,Freightliner,CASCADIA,2014,,,,,,,,0,
+994,Truck 0506,INACTIVE,Owner Operator Owned,01/23/2024,0,0,01/23/2024,,Straight Line Transport and Courier SVCS LLC,KENWORTH,TT,2018,,,,,,,,0,
+997,Truck 0896,INACTIVE,Owner Operator Owned,07/10/2024,0,0,07/10/2024,,A & T Freight Services LLC,Freightliner,CASCADIA,2017,,,,,,,,0,
+1001,Truck 0927,INACTIVE,Owner Operator Owned,08/13/2024,0,0,08/13/2024,,"Sanches, Sammy Dale",PETERBILT,TT,1994,,,,,,,,0,
+1002,Truck 0600,INACTIVE,Owner Operator Owned,02/09/2024,0,0,,,,Freightliner,TT,2016,,,,,,,,0,
+1003,Truck 1106,INACTIVE,Owner operator owned,,0,0,,,,Freightliner,TT,2014,0,,,,0,,0,0,0
+1004,Truck 0898,INACTIVE,Owner Operator Owned,07/15/2024,0,0,07/15/2024,,Yagi Empire LLC,Freightliner,TT,2014,,,,,,,,0,
+1007,Truck 0884,INACTIVE,Owner Operator Owned,07/10/2024,0,0,07/10/2024,,Janelle Trucking Llc,VOLVO,TT,2017,,,,,,,,0,
+1009,Truck 0495,INACTIVE,Owner operator owned,,0,0,,,,Frt,,2019,0,,,,0,,0,0,0
+1020,Truck 0523,INACTIVE,Owner Operator Owned,2024-09-12,0,0,2024-09-12,,HORIZON SUN TRANSPORT LL,International,LT625,2018,,,,,,,,0,
+1022,Truck 0540,INACTIVE,Owner Operator Owned,04/29/2024,0,0,04/29/2024,,Carribean Freight INC,PETERBILT,TT,2020,,,,,,,,0,
+1024,Truck 0771,INACTIVE,Owner Operator Owned,05/09/2024,0,0,05/09/2024,,DAFZZ TRANSPORT LLC,Freightliner,TT,2019,,,,,,,,0,
+1033,Truck 0700,INACTIVE,Owner Operator Owned,03/29/2024,0,0,03/29/2024,,McMillian Trucking 1 llc,PETERBILT,579,2017,,,,,,,,0,
+1038,Truck 0869,INACTIVE,Owner Operator Owned,06/22/2024,0,0,06/22/2024,,Yeti Express LLC,Kenworth,T680,2020,,,,,,,,0,
+1040,SPOT-Truck 0029,INACTIVE,Rental,2024-09-01,0,2382,2023-10-01,,KTN Logistics Inc,International,LT625,2020,467503,,,,0,,0,0,0
+1043,Truck 0848,INACTIVE,Owner Operator Owned,06/14/2024,0,0,06/14/2024,06/14/2027,H&A CARGO TRUCKS,Freightliner,TT,2012,,,,,,,,0,
+1045,Truck 0861,INACTIVE,Owner Operator Owned,06/19/2024,0,0,06/19/2024,06/19/2027,RC Transport,PTRB,TT,2019,,,,,,,,0,
+1046,Truck 0111,INACTIVE,Owner operator owned,,0,0,,,,Kenworth,-,2019,0,,,,0,,0,0,0
+1047,Truck 1107,INACTIVE,Owner Operator Owned,06/25/2024,0,0,06/25/2024,,,Peterbilt,TR,2015,,,,,,,,0,
+1048,Truck 0783,INACTIVE,Owner Operator Owned,05/13/2024,0,0,05/13/2024,,,Freightliner,TT,2020,,,,,,,,0,
+1049,Truck 0521,INACTIVE,Owner Operator Owned,01/17/2024,0,0,,,,Peterbilt,579,2019,,,,,,,,0,
+1068,Truck 0847,INACTIVE,Owner Operator Owned,06/14/2024,0,0,06/14/2024,06/14/2027,Goldstone Logistics LLC,KENWORTH,TT,2018,,,,,,,,0,
+1069,SPOT-Truck 0474,INACTIVE,FMV lease,2021-04-01,154500,3934.55,2021-04-01,2025-10-01,Penske,International,Cummings,2022,,,,,,,,0,
+1074,Truck 0816,INACTIVE,Owner Operator Owned,05/28/2024,0,0,05/28/2024,,Braxton Enterprise,VOLVO,TT,2008,,,,,,,,0,
+1075,Truck 0682,INACTIVE,Owner Operator Owned,03/22/2024,0,0,,,M IIII Express LLC,PETERBILT,TR,2020,,,,,,,,0,
+1078,Truck 0479,INACTIVE,Owner operator owned,,0,0,,,,test,test,0,0,,,,0,,0,0,0
+1079,Truck 1075,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,KENWORTH,T680,1995,0,,,,0,,0,0,0
+1080,Truck 0351,INACTIVE,Owner operator owned,,0,0,,,,VOLVO,-,2016,0,,,,0,,0,0,0
+1085,Truck 0572,INACTIVE,Owner Operator Owned,01/29/2024,0,0,,,,INTERNATIONAL,TR,2017,,,,,,,,0,
+1098,Truck 0488,INACTIVE,Owner Operator Owned,12/29/2023,0,0,,,,Freightliner,-,2017,,,,,,,,0,
+1099,Truck 0169,INACTIVE,Owner Operator Owned,07/01/2024,0,0,07/01/2024,,,Freightliner,CASCADIA,2019,,,,,,,,0,
+1100,Truck 0784,INACTIVE,Owner Operator Owned,05/29/2024,0,0,05/29/2024,,Logistics Expert LLC,Freightliner,TT,2020,,,,,,,,0,
+1101,Truck 0762,INACTIVE,Owner Operator Owned,05/06/2024,0,0,05/06/2024,,"Cano, Francisco Javier",PETERBILT,TR,2021,,,,,,,,0,
+1104,Truck 1027,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Worm A1 Hot Shot LLC,freightliner,TT,2009,0,,,,0,,0,0,0
+1108,SPOT-Truck 0486,ACTIVE,Operating lease,2024-12-01,172227,4590.31,2025-01-01,2030-01-01,Ryder Truck Rental,Freightliner,Cascadia,2025,1681,,66585,5-10-2025 21:36:22,0,,0,0,0
+1109,SPOT-Truck 0393,ACTIVE,Financed,2024-11-01,123000,3536.4,2024-12-01,2027-12-01,Y&C Truck Capital Premium LLC,Freightliner,Cascadia,2023,168547,,273058,5-11-2025 19:16:48,94550,29-04-25,23500,14.99,0
+1162,Truck 0255,INACTIVE,Owner Operator Owned,05/14/2024,0,0,05/14/2024,,,Freightliner,TT,2015,,,,,,,,0,
+1180,Truck 0923,INACTIVE,Owner Operator Owned,08/12/2024,0,0,08/12/2024,,,Freightliner,CASCADIA,2016,,,,,,,,0,
+1200,Truck 0622,INACTIVE,Owner Operator Owned,07/15/2024,0,0,07/15/2024,,BLK TRUX INC,Freightliner,CASCADIA,2019,,,,,,,,0,
+1226,Truck 0295,INACTIVE,Owner Operator Owned,07/02/2024,0,0,07/02/2024,,GALLANS TRANSPORT LLC,Freightliner,TT,2019,,,,,,,,0,
+1233,Truck 0422,INACTIVE,Owner Operator Owned,02/27/2024,0,0,02/27/2024,,FSB Trucking LLC,Freightliner,TT,2014,,,,,,,,0,
+1268,Truck 0297,INACTIVE,Owner Operator Owned,04/17/2024,0,0,04/17/2024,,Zoe Services Inc,Freightliner,TR,2023,,,,,,,,0,
+1272,Truck 0092,INACTIVE,Owner Operator Owned,08/12/2024,0,0,08/12/2024,,,Freightliner,TT,2019,,,,,,,,0,
+1299,Truck 0692,INACTIVE,Owner Operator Owned,04/17/2024,0,0,04/17/2024,,Lendee Trucking LLC,Freightliner,TT,2019,,,,,,,,0,
+1330,Truck 0517,ACTIVE,Owner Operator Owned,04/01/2024,0,0,04/01/2024,,DPS Logistics LLC,Freightliner,TR,2016,,,851015,5-8-2025 16:19:22,,,,0,
+1372,Truck 0084,INACTIVE,Owner Operator Owned,05/13/2024,0,0,05/13/2024,,At trans llc,Freightliner,CASCADIA,2019,,,,,,,,0,
+1373,Truck 0139,INACTIVE,Owner Operator Owned,05/20/2024,0,0,05/20/2024,,Thrill Express Inc,Freightliner,TT,2017,,,,,,,,0,
+1374,SPOT-Truck 0291,ACTIVE,Operating lease,2024-01-01,163422,4333.15,2024-04-01,2029-10-01,Ryder Truck Rental,Freightliner,Cascadia,2024,73486,,261380,5-12-2025 9:25:52,0,,0,0,0
+1375,SPOT-Truck 0353,ACTIVE,Financed,2024-10-01,123000,3536.4,2024-10-01,2027-10-01,Y&C Truck Capital Premium LLC,Freightliner,Cascadia,2023,188244,,285057,5-11-2025 2:01:13,94507,29-04-25,23500,14.99,0
+1376,Truck 0165,ACTIVE,Owner Operator Owned,09/13/2023,0,0,,,Mohammad Hussaini,Freightliner,Cascadia,2019,,,689959,5-11-2025 12:45:19,,,,0,
+1377,SPOT-Truck 0831,INACTIVE,Rental,2024-08-01,0,3728,2024-08-01,,Ryder Truck Rental,Freightliner,Cascadia,2021,391808,,,,0,,0,0,0
+1378,Truck 0987,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,volvo,VNL,2015,0,,,,0,,0,0,0
+1379,Truck 0263,inactive,Owner Operator Owned,04/18/2024,0,0,04/18/2024,,BALAN EXPRESS INC,VOLVO,TT,2017,,,,,,,,0,
+1380,Truck 1099,ACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,Peterbilt,TT,2005,0,,,,0,,0,0,0
+1381,SPOT-Truck 0005,ACTIVE,Lease Purchase,2023-08-01,114555,3011,2023-08-01,2027-08-01,"TPine Leasing Capital, L.P.",Freightliner,Cascadia,2021,305748,,598227,5-9-2025 0:21:10,49612,29-04-25,5700,14.69,101
+1382,SPOT-Truck 0196,ACTIVE,Operating lease,2024-07-01,142528,4239.25,2024-07-01,2027-07-01,Ryder Truck Rental,Freightliner,Cascadia,2024,262208,,424675,5-12-2025 0:22:32,0,,0,0,0
+1385,SPOT-Truck 0214,ACTIVE,Operating lease,2023-06-01,161280,4485.33,2023-06-01,2028-12-01,Ryder Truck Rental,Freightliner,Cascadia,2024,57,,239633,5-10-2025 16:30:12,0,,0,0,0
+1386,SPOT-Truck 0037,ACTIVE,Financed,2023-02-01,110864.5,2564.25,2023-02-01,2028-02-01,Engs Commercial Finance Co.,Peterbilt,579,2022,93055,,422687,5-12-2025 9:25:45,66140,29-04-25,8000,16.42,0
+1388,Truck 0660,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TT,2007,0,,35135,1-29-2025 13:58:02,0,,0,0,0
+1389,Truck 0633,INACTIVE,Owner Operator Owned,05/14/2024,0,0,05/14/2024,,IBEROSTAR LLC,VOLVO,TT,2017,,,847268,1-14-2025 14:18:09,,,,0,
+1390,SPOT-Truck 0041,ACTIVE,Financed,2023-09-01,186448,3878,2023-09-01,2029-09-01,"Equify Financial, LLC",Kenworth,T680,2024,6321,,300127,5-11-2025 19:33:53,0,,0,14.36,0
+1391,SPOT-Truck 0047,ACTIVE,Operating lease,2023-12-01,213900,4829.5,2023-12-01,2027-12-01,M&K Truck Leasing LLC,VOLVO,VNL760,2024,5013,,233352,5-12-2025 8:28:46,0,,0,0,0
+1392,Truck 1013,INACTIVE,Owner operator owned,2024-10-15,,,,,Acza Trucking LLC,freightliner,TT,2021,,,,,,,,,
+1393,SPOT-Truck 0511,ACTIVE,Operating lease,2024-12-01,172227,4590.31,2025-01-01,2030-01-01,Ryder Truck Rental,Freightliner,Cascadia,2025,5520,,60510,5-12-2025 4:24:41,0,,0,0,0
+1394,Truck 0984,INACTIVE,Owner operator owned,,0,0,,,Trusted Funding Company,Freightliner,Cascadia,2018,0,,,,0,,0,0,0
+1395,Truck 1026,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,freightliner,TT,2020,0,,,,0,,0,0,0
+1396,Truck 0460,INACTIVE,Owner Operator Owned,2024-09-17,0,0,2024-09-17,,William Bell,Kenworth,TT,2017,,,,,,,,0,
+1398,Truck 0669,ACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,International,TR,2020,0,,509898,5-12-2025 7:17:44,0,,0,0,0
+1401,SPOT-Truck 0115,ACTIVE,Financed,2023-03-01,141000,3217,2023-03-01,2027-03-01,"Crossroads Equipment Lease and Finance, LLC",Peterbilt,579,2022,120348,,445555,5-3-2025 1:20:12,65280,29-04-25,20000,12.51,0
+1402,Truck 0499,ACTIVE,Owner operator owned,,,,,,Temp Vendor,International,TT,2019,,,355334,5-11-2025 22:36:52,,,,,
+1403,SPOT-Truck 0024,ACTIVE,Operating lease,2024-01-01,176370,4331.72,2024-01-01,2029-07-01,Ryder Truck Rental,Freightliner,Cascadia,2024,2573,,223795,5-12-2025 2:36:11,0,,0,0,0
+1404,SPOT-Truck 0134,ACTIVE,Lease Purchase,2021-09-01,144000,4150.04,2021-10-01,2025-10-01,Envision Capital Group LLC,Peterbilt,579,2022,1266,,532900,5-12-2025 9:26:13,62629,29-04-25,17764.04,18.96,0
+1405,Truck 0119,INACTIVE,Owner Operator Owned,2024-09-12,0,0,2024-09-12,,Jose Garcia,Kenworth,TT,2019,,,,,,,,0,
+1406,Truck 1111,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,freightliner,TT,2018,0,,,,0,,0,0,0
+1407,Truck 0444,ACTIVE,Owner operator owned,2024-10-24,,,,,Capo Martin Trucking LLC,Freightliner,Cascadia,2018,,,440348,5-12-2025 8:56:57,,,,,
+1411,Truck 0018,ACTIVE,Owner Operator Owned,03/16/2023,0,0,03/16/2023,03/16/2026,Fast Mack Express LLC,Freightliner,Cascadia,2016,,,792278,5-9-2025 11:57:02,,,,0,
+1412,Truck 1011,INACTIVE,Owner operator owned,2025-01-01,0,0,,,Temp Vendor,freightliner,Cascadia 125,2018,0,,,,0,,0,0,0
+1413,Truck 0365,ACTIVE,Owner Operator Owned,05/09/2024,0,0,05/09/2024,,MAV ic 1734,Freightliner,Freightliner CO,2016,,,1152265,5-12-2025 0:51:30,,,,0,
+1414,SPOT-Truck 0063,ACTIVE,Financed,2023-02-01,134077.5,2747,2023-02-01,2027-02-01,"Aladdin Capital, Inc.",Peterbilt,579,2022,82000,,466522,5-11-2025 14:38:04,64745,29-04-25,34077.5,14.28,1
+1415,SPOT-Truck 0387,ACTIVE,Lease Purchase,2024-11-01,175000,3575,2024-12-01,2029-12-01,HEC Leasing LLC,Freightliner,Cascadia,2025,23,,75081,5-12-2025 8:39:47,0,,0,11.9,25000
+1416,Truck 0412,INACTIVE,Owner Operator Owned,08/27/2024,0,0,08/27/2024,,Brian Pozas,VOLVO,VN,2016,,,,,,,,0,
+1417,Truck 0674,INACTIVE,Owner Operator Owned,09/12/2024,0,0,09/12/2024,,,KENWORTH,TT,2018,,,,,,,,0,
+1418,SPOT-Truck 0918,INACTIVE,Rental,2023-09-01,0,1949,2024-09-01,,KTN Logistics Inc,Freightliner,Cascadia,2018,930428,,,,0,,0,0,0
+1420,Truck 1072,INACTIVE,Owner operator owned,,0,0,,,Cowart Trucking & pro solutions LLC,freightliner,TT,1999,0,,,,0,,0,0,0
+1421,Truck 0360,INACTIVE,Owner Operator Owned,03/04/2024,0,0,03/04/2024,,FSB Trucking LLC,Freightliner,TT,2016,,,,,,,,0,
+1422,Truck 0108,INACTIVE,Owner Operator Owned,06/06/2024,0,0,06/06/2024,,GBOB Logistics LLC,FRHT,Cascadia 126,2018,,,,,,,,0,
+1423,Truck 0624,ACTIVE,Owner Operator Owned,2024-09-18,0,0,2024-09-18,,Adolfo Reyes,PETERBILT,TT,2018,,,989212,5-11-2025 12:11:18,,,,0,
+1424,SPOT-Truck 0298,ACTIVE,Lease Purchase,2024-05-01,176000,3895.03,2024-05-01,2029-05-01,Impel Leasing LLC,Kenworth,T680,2025,65,,166340,5-12-2025 3:35:46,0,,0,11.78,1
+1425,SPOT-Truck 0001,ACTIVE,Lease Purchase,2023-04-01,141555,3248,2023-04-01,2027-04-01,"TPine Leasing Capital, L.P.",Peterbilt,579,2022,132098,,419838,5-11-2025 18:26:48,66161,29-04-25,21800,13.9,101
+1426,SPOT-Truck 0225,ACTIVE,Lease Purchase,2024-11-01,211200,3195,2024-11-01,2029-10-01,Cresco Capital Inc,Kenworth,T680,2025,13,,89671,5-12-2025 0:27:51,0,,22695,8.02,0
+1427,SPOT-Truck 0440,ACTIVE,Operating lease,2024-10-01,185000,4229,2024-11-01,2027-08-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,980,,85379,5-12-2025 0:54:45,0,,0,0,0
+1431,SPOT-Truck 0161,ACTIVE,Lease Purchase,2023-12-01,169000,3674,2023-12-01,2028-06-01,"TPine Leasing Capital, L.P.",Peterbilt,579,2024,13652,,265876,5-12-2025 7:45:48,0,,17051.5,11.78,101
+1432,SPOT-Truck 0421,ACTIVE,Lease Purchase,2024-11-01,175000,3575,2024-12-01,2029-12-01,HEC Leasing LLC,Freightliner,Cascadia,2025,1371,,82743,5-11-2025 5:28:34,0,,0,11.9,25000
+1433,SPOT-Truck 0278,ACTIVE,Financed,2024-11-01,175730.33,3296,2024-11-01,2029-11-01,Volvo Financial Services,VOLVO,VNL860,2025,25617,,70850,5-12-2025 3:43:58,0,,17549.89,9.16,0
+1434,SPOT-Truck 0172,ACTIVE,Financed,2024-08-01,160000,3235.07,2024-08-01,2029-03-01,"RTS Financial Service, Inc",Freightliner,Cascadia,2024,56705,,110814,1-8-2025 2:23:54,0,,24000,11.46,0
+1435,Truck 0400,ACTIVE,Owner operator owned,2024-10-09,,,,,John Tewolde,Kenworth,CONSTRUCTION,2019,,,936747,5-12-2025 4:31:37,,,,,
+1436,SPOT-Truck 0157,ACTIVE,Lease Purchase,2023-04-01,146555,3398,2023-04-01,2027-04-01,"TPine Leasing Capital, L.P.",Peterbilt,579,2022,128706,,496101,5-8-2025 20:50:09,63836,29-04-25,22500,13.98,101
+1439,SPOT-Truck 0808,INACTIVE,Rental,2024-08-01,0,3728,2024-08-01,,Ryder Truck Rental,Freightliner,Cascadia,2020,663088,,,,0,,0,0,0
+1440,SPOT-Truck 1001,INACTIVE,Rental,2024-10-01,0,0,2024-11-01,,KTN Logistics Inc,Kenworth,T680,2023,223823,,,,0,,0,0,0
+1444,Truck 0865,INACTIVE,Owner operator owned,,0,0,,,Temp Vendor,kenworth,TT,2018,0,,,,0,,0,0,0
+1445,SPOT-Truck 0522,ACTIVE,Operating lease,2024-11-01,185000,3687,2024-12-01,2027-06-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,216,,71763,5-9-2025 21:36:21,0,,0,0,0
+1446,SPOT-Truck 0243,ACTIVE,Operating lease,2023-08-01,167263,4122.35,2023-08-01,2029-02-01,Ryder Truck Rental,Freightliner,Cascadia,2024,1772,,329870,5-12-2025 4:03:32,0,,0,0,0
+1447,SPOT-Truck 0659,INACTIVE,Rental,2024-09-01,0,3716,2024-09-01,2024-12-01,Ryder Truck Rental,Freightliner,Cascadia,2023,340756,2-21-2025 1:27:21,,,0,,0,0,0
+1455,Truck 0705,ACTIVE,Owner operator owned,2024-09-01,0,0,2024-09-01,,Cameo Carriers LLC,VOLVO,TT,2012,0,,1177227,5-11-2025 15:43:51,0,,0,0,0
+1456,SPOT-Truck 0443,ACTIVE,Lease Purchase,2024-11-01,175000,3575,2024-12-01,2029-12-01,HEC Leasing LLC,Freightliner,Cascadia,2025,29,,78036,5-12-2025 9:26:22,0,,0,11.9,25000
+1457,SPOT-Truck 0064,ACTIVE,Operating lease,2023-04-01,145030,4070,2023-04-01,2028-04-01,Penske,Freightliner,Cascadia,2023,411023,,470756,5-11-2025 6:47:12,88125,29-04-25,0,0,0
+1458,SPOT-Truck 0215,ACTIVE,Lease Purchase,2024-11-01,211200,3195,2024-11-01,2029-10-01,Cresco Capital Inc,Kenworth,T680,2025,840,,95449,5-12-2025 7:36:54,0,,22695,8.02,0
+1463,SPOT-Truck 0364,ACTIVE,Operating lease,2024-10-01,185000,4229,2024-11-01,2027-08-01,Transport Enterprise Leasing LLC,Peterbilt,579,2025,977,,101659,5-11-2025 16:38:12,0,,0,0,0
+1464,SPOT-Truck 0526,ACTIVE,Operating lease,2024-12-01,172227,4590.31,2025-01-01,2030-01-01,Ryder Truck Rental,Freightliner,Cascadia,2025,19,,55246,5-9-2025 19:48:21,0,,0,0,0
+1465,SPOT-Truck 0315,ACTIVE,Lease Purchase,2024-10-01,217200,3295,2024-10-01,2029-10-01,Cresco Capital Inc,Kenworth,T680,2024,885,,131313,5-12-2025 9:23:39,0,,19500,8.44,0
+1466,Truck 0729,INACTIVE,Owner operator owned,2024-12-01,0,0,,,Temp Vendor,freightliner,TT,2017,0,,,,0,,0,0,0
+1467,SPOT-Truck 0178,ACTIVE,Lease Purchase,2024-10-01,217200,3295,2024-10-01,2029-10-01,Cresco Capital Inc,Kenworth,T680,2025,1185,,120938,4-29-2025 17:19:27,0,,19500,8.44,0
+1468,Truck 0345,ACTIVE,Owner Operator Owned,06/03/2024,0,0,06/03/2024,,Mziizi Inc,Freightliner,Cascadia,2020,,,666219,5-9-2025 20:52:25,,,,0,
+1474,Truck 0087,INACTIVE,Owner Operator Owned,04/02/2024,0,0,04/02/2024,,Pride Trucking LLC,Freightliner,TT,1999,,,,,,,,0,
+1476,Truck 0554,INACTIVE,Owner Operator Owned,08/14/2024,0,0,08/14/2024,,Salween Transports Inc,KENWORTH,TR,2019,,,,,,,,0,
+1483,Truck 0101,INACTIVE,Owner Operator Owned,10/18/2023,0,0,,,,Peterbilt,-,2009,,,,,,,,0,
+1486,Truck 0441,INACTIVE,Owner Operator Owned,05/06/2024,0,0,05/06/2024,,Cool Runnings Trucking llc,Freightliner,TR,2015,,,,,,,,0,
+1499,Truck 0270,INACTIVE,Owner Operator Owned,05/13/2024,0,0,05/13/2024,,Sekou Express llc,PETERBILT,TT,2022,,,,,,,,0,
+1501,Truck 0006,INACTIVE,Owner Operator Owned,08/05/2024,0,0,08/05/2024,,Paul Hernandez,PETERBILT,Commercial,2018,,,,,,,,0,
+1532,SPOT-Truck 0719,ACTIVE,Lease Purchase,2025-01-01,175000,3575,2025-01-01,2030-01-01,HEC Leasing LLC,Peterbilt,579,2025,738,,58339,5-12-2025 8:47:37,0,,0,11.9,25000
+1533,SPOT-Truck 0537,ACTIVE,Financed,2025-03-01,190452,3752.75,2025-04-01,2030-04-01,Volvo Financial Services,VOLVO,VNL860,2026,1032,,10145,5-12-2025 8:57:01,0,,9522.6,8.75,0
+1534,SPOT-Truck 0545,ACTIVE,Financed,2025-03-01,190452,3752.75,2025-04-01,2030-04-01,Volvo Financial Services,VOLVO,VNL860,2026,1032,,9958,5-12-2025 3:02:44,0,,9522.6,8.75,0
+1535,SPOT-Truck 0724,ACTIVE,Operating lease,2025-04-01,172227,4590.31,2025-05-01,2030-05-01,Ryder Truck Rental,Freightliner,Cascadia,2026,15,,9399,5-11-2025 19:40:32,0,,0,0,0
+1536,SPOT-Truck 0727,ACTIVE,Operating lease,2025-04-01,172227,4590.31,2025-05-01,2030-05-01,Ryder Truck Rental,Freightliner,Cascadia,2026,15,,15646,5-11-2025 21:42:28,0,,0,0,0
+1536,SPOT-Truck 0727,INACTIVE,Operating lease,2025-04-01,172227,4590.31,2025-05-01,2030-05-01,Ryder Truck Rental,Freightliner,Cascadia,2026,15,,,,0,,0,0,0
+1537,SPOT-Truck 0708,INACTIVE,Operating lease,2025-04-01,172227,4590.31,2025-05-01,2030-05-01,Ryder Truck Rental,Freightliner,Cascadia,2026,15,,,,0,,0,0,0
+1537,SPOT-Truck 0708,ACTIVE,Operating lease,2025-04-01,172227,4590.31,2025-05-01,2030-05-01,Ryder Truck Rental,Freightliner,Cascadia,2026,15,,14315,5-12-2025 9:23:55,0,,0,0,0
+1538,SPOT-Truck 0730,ACTIVE,Operating lease,2025-04-01,172227,4590.31,2025-05-01,2030-05-01,Ryder Truck Rental,Freightliner,Cascadia,2026,15,,2347,4-12-2025 17:27:30,0,,0,0,0
+1539,SPOT-Truck 1052,ACTIVE,Financed,2025-04-01,115000,2495.42,2025-05-01,2029-11-01,"Commercial Capital Company, L.L.C.",Peterbilt,579,2023,161632,,163421,5-10-2025 12:11:07,0,,11500,12.8,0
+1540,SPOT-Truck 0731,ACTIVE,Operating lease,2025-04-01,172227,4590.31,2025-05-01,2030-05-01,Ryder Truck Rental,Freightliner,Cascadia,2026,1623,4-14-2025 17:55:16,10782,5-9-2025 17:03:19,,,,,
+1541,SPOT-Truck 0547,ACTIVE,Operating lease,2025-04-01,172227,4590.31,2025-05-01,2030-05-01,Ryder Truck Rental,Freightliner,Cascadia,2026,61,4-14-2025 17:56:35,14743,5-11-2025 22:20:07,,,,,
+1542,SPOT-Truck 1054,ACTIVE,Financed,2025-04-01,113000,2456.49,2025-05-01,2029-11-01,"Commercial Capital Company, L.L.C.",Peterbilt,579,2023,170000,4-29-2025 14:32:25,185385,5-12-2025 6:34:50,0,,11300,12.9,0
+1543,SPOT-Truck 1122,ACTIVE,Operating lease,2025-05-01,195000,4510,2025-05-01,2027-11-01,Transport Enterprise Leasing LLC,Peterbilt,579,2026,0,,,,0,,0,0,0
+1544,SPOT-Truck 1123,ACTIVE,Operating lease,2025-05-01,195000,4510,2025-05-01,2027-11-01,Transport Enterprise Leasing LLC,Peterbilt,579,2026,0,,,,0,,0,0,0
+1545,SPOT-Truck 1124,ACTIVE,Operating lease,2025-05-01,195000,4510,2025-05-01,2027-11-01,Transport Enterprise Leasing LLC,Peterbilt,579,2026,,,1203,5-12-2025 1:00:07,,,,,
+1546,SPOT-Truck 1125,ACTIVE,Operating lease,2025-05-01,195000,4510,2025-05-01,2027-11-01,Transport Enterprise Leasing LLC,Peterbilt,579,2026,,,,,,,,,
+1547,SPOT-Truck 1126,ACTIVE,Operating lease,2025-05-01,195000,4510,2025-05-01,2027-11-01,Transport Enterprise Leasing LLC,Peterbilt,579,2026,,,,,,,,,
+1548,SPOT-Truck 1056,ACTIVE,Operating lease,2025-05-01,195000,4510,2025-05-01,2027-11-01,Transport Enterprise Leasing LLC,Peterbilt,579,2026,,,1733,5-12-2025 9:23:03,,,,,
+1549,SPOT-Truck 1127,ACTIVE,Operating lease,2025-05-01,195000,4510,2025-05-01,2027-11-01,Transport Enterprise Leasing LLC,Peterbilt,579,2026,,,,,,,,,
+1550,SPOT-Truck 1128,ACTIVE,Operating lease,2025-05-01,195000,4510,2025-05-01,2027-11-01,Transport Enterprise Leasing LLC,Peterbilt,579,2026,,,,,,,,,
+1551,SPOT-Truck 1129,ACTIVE,Operating lease,2025-05-01,195000,4510,2025-05-01,2027-11-01,Transport Enterprise Leasing LLC,Peterbilt,579,2026,,,,,,,,,
+1552,SPOT-Truck 1130,ACTIVE,Operating lease,2025-05-01,195000,4510,2025-05-01,2027-11-01,Transport Enterprise Leasing LLC,Peterbilt,579,2026,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
