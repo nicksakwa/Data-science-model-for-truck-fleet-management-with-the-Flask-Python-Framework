@@ -214,3 +214,52 @@ def index():
     # Basic HTML template string
     # In a real Flask app, this would be in a separate .html file (e.g., templates/index.html)
     template = """
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Truck Evaluation Dashboard</title>
+        <style>
+            body { font-family: Arial, sans-serif; margin: 20px; background-color: #f4f4f4; color: #333; }
+            h1, h2 { color: #0056b3; }
+            .container { background-color: #fff; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+            .data-table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+            .data-table th, .data-table td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+            .data-table th { background-color: #e2e6ea; }
+            .summary-table { margin-top: 30px; border-collapse: collapse; }
+            .summary-table th, .summary-table td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+            .summary-table th { background-color: #e2e6ea; }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Truck Evaluation Dashboard</h1>
+            <p>This dashboard provides recommendations for your truck fleet based on financial, mechanical, and operational data.</p>
+            <p><strong>Note:</strong> This demonstration uses simulated data due to file access limitations.</p>
+
+            <h2>Detailed Truck Evaluation</h2>
+            {{ html_table | safe }}
+
+            <h2>Summary of Recommendations</h2>
+            {{ recommendation_summary | safe }}
+
+            <h2>Explanation of Logic and Future Predictions</h2>
+            <p>
+                The recommendations (Keep, Sell, Inspect) are based on a set of rules combining mileage, repair costs, usage, and resale value against outstanding loans.
+            </p>
+            <h3>Addressing Specific Questions:</h3>
+            <ul>
+                <li><strong>Are we still getting value out of this truck?</strong> Evaluated by usage (payroll entries) and revenue collected versus repair costs.</li>
+                <li><strong>Will keeping it cost us more than it’s worth?</strong> Assessed by the 'Potential_Gain_Loss_If_Sold' metric, comparing estimated resale value to total amount owed.</li>
+                <li><strong>Is there enough data to clearly decide, or does this one need a closer look?</strong> Trucks with 'borderline' metrics or conflicting signals are flagged for 'Inspect'.</li>
+                <li><strong>How much did we gain/lose, or How much Is predicted for this truck to get in the next X weeks?</strong> 'Potential_Gain_Loss_If_Sold' shows immediate gain/loss. Future predictions (next X weeks) would require advanced time-series and predictive maintenance models, which are beyond the scope of this demonstration but are critical for a full operational tool.</li>
+            </ul>
+        </div>
+    </body>
+    </html>
+    """
+    return render_template_string(template, html_table=html_table, recommendation_summary=recommendation_summary)
+
+if __name__ =='__main__'
+    app.run(debug=True)
