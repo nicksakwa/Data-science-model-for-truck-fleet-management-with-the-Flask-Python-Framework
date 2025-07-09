@@ -29,3 +29,26 @@ for truck_id in truck_ids:
         })
     df_repairs= pd.DataFrame(repairs_data)
     df_repairs['Date']= pd.to_datetime(df_repairs['Date'])
+
+    distance_data = []
+    start_date=pd.to_datetime('2024-01-01')
+    end_date=pd.to_datetime('2024-06-30')
+    date_range =pd.date_range(start=start_date, end=end_date, freq='D')
+
+    for truck_id in truck_ids:
+        idle_prob=np.random.uniform(0.1,0.5)
+        for date in date_range:
+            if np.random.rand() > idle_prob:
+                distance_date.append({
+                    'Truck ID': truck_id,
+                    'Date': date,
+                    'Distance Traveled (miles)':np.random.uniform(50, 600)
+                })
+            else:
+                distance_data.append({
+                    'Truck ID': truck_id,
+                    'Date': date,
+                    'Distance Traveled (miles)':0
+                })
+    df_distance=pd.DataFrame(distance_data)
+    df_distance['Date']=pd.to_datetime(df_distance['Date'])
