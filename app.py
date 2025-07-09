@@ -159,3 +159,34 @@ def get_truck_evaluations():
     borderline_usage_lower = df_master['Num_Payroll_Entries'].quantile(0.40)
     borderline_miles_upper = df_master['Miles_Last_10_Weeks'].quantile(0.60)
     borderline_miles_lower = df_master['Miles_Last_10_Weeks'].quantile(0.40)
+
+    def make_truck_recommendation(row):
+        high_mileage=row['latest_Odometer_Reading']> latest_odometer_q75
+        high_repair_cost=row['Total_Repair_Cost']> total_repair_cost_q75
+        low_usage = row['Num_Payroll_Entries'] < num_payroll_entries_q25
+        resale_higher_than_owed = row['Potential_Gain_Loss_If_Sold'] > 0
+
+        low_moderate_mileage = row['Latest_Odometer_Reading'] <= latest_odometer_q75
+        actively_used = row['Num_Payroll_Entries'] >= num_payroll_entries_q25
+        resale_lower_than_owed = row['Potential_Gain_Loss_If_Sold'] < 0
+
+         if high_mileage and high_repair_cost and low_usage and resale_higher_than_owed:
+            return 'Sell'
+        if low_moderate_mileage and (not high_repair_cost) and actively_used and resale_lower_than_owed:
+            return 'Keep'
+        
+        borderline_repair = (row['Total_Repair_Cost'] > borderline_repair_cost_lower) and \
+                            (row['Total_Repair_Cost'] < borderline_repair_cost_upper)
+        borderline_usage = (row['Num_Payroll_Entries'] > borderline_usage_lower) and \
+                           (row['Num_Payroll_Entries'] < borderline_usage_upper)
+        borderline_miles = (row['Miles_Last_10_Weeks'] > borderline_miles_lower) and \
+                           (row['Miles_Last_10_Weeks'] < borderline_miles_upper)
+         
+        if borderline_repair or borderline_usage or borderline_miles or (low_usage and not high_repair_cost):
+            return 'Inspect'
+        return 'Inspect'
+    
+    df_master['Recommendation'] = df_master.apply(make_truck_recommendation, axis=1)
+    return df_master
+
+
