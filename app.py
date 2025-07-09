@@ -52,3 +52,17 @@ for truck_id in truck_ids:
                 })
     df_distance=pd.DataFrame(distance_data)
     df_distance['Date']=pd.to_datetime(df_distance['Date'])
+
+odometer_data=[]
+payroll_weeks=pd.date_range(start='2024-01-01', end='2024-06-30', freq='W')
+for truck_id in truck ids:
+    current_odometer=np.random.randint(10000, 100000)
+    for week_start in payroll_weeks:
+        current_odometer+=np.random.randint(500, 3000)
+        odometer_data.append({
+            'Truck ID': truck_id,
+            'Payroll week': week_start,
+            'odometer Reading': current_odometer
+        })
+df_odometer= pd.DataFrame(odometer_data)
+df_odometer['Payroll week']=pd.to_datetime(df_odometer['Payroll week'])
