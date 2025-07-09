@@ -84,3 +84,78 @@ data_truck_paper={
     'Price':np.random.uniform(10000, 60000, num_trucks)
 }
 df_truck_paper=pd.DataFrame(data_truck_paper)
+
+def get_truck_evaluations():
+    # Initialize a main DataFrame to consolidate all truck data
+    df_master = pd.DataFrame({'Truck ID': truck_ids})
+
+    # 1. Truck Finance Features
+    df_master = df_master.merge(df_finance, on='Truck ID', how='left')
+    df_master['Is Paid Off'] = df_master['Remaining Balance'] == 0
+    df_master['Total Owed'] = df_master['Remaining Balance'] + df_master['Buyout Price']
+
+    # 2. MaintenancePO_truck Features
+    repairs_summary = df_repairs.groupby('Truck ID').agg(
+        Total_Repair_Cost=('Total Cost', 'sum'),
+        Num_Repairs=('Truck ID', 'count')
+    ).reset_index()
+    df_master = df_master.merge(repairs_summary, on='Truck ID', how='left')
+    df_master['Total_Repair_Cost'] = df_master['Total_Repair_Cost'].fillna(0)
+    df_master['Num_Repairs'] = df_master['Num_Repairs'].fillna(0)
+
+    # 3. Vehicle Distance Traveled Features
+    distance_summary = df_distance.groupby('Truck ID').agg(
+        Total_Miles_Traveled=('Distance Traveled (miles)', 'sum'),
+        Avg_Daily_Miles=('Distance Traveled (miles)', 'mean'),
+        Std_Dev_Daily_Miles=('Distance Traveled (miles)', 'std'),
+        Num_Idle_Days=('Distance Traveled (miles)', lambda x: (x == 0).sum())
+    ).reset_index()
+    df_master = df_master.merge(distance_summary, on='Truck ID', how='left')
+    df_master['Total_Miles_Traveled'] = df_master['Total_Miles_Traveled'].fillna(0)
+    df_master['Avg_Daily_Miles'] = df_master['Avg_Daily_Miles'].fillna(0)
+    df_master['Std_Dev_Daily_Miles'] = df_master['Std_Dev_Daily_Miles'].fillna(0)
+    df_master['Num_Idle_Days'] = df_master['Num_Idle_Days'].fillna(0)
+
+    latest_date = df_distance['Date'].max()
+    ten_weeks_ago = latest_date - pd.Timedelta(weeks=10)
+    miles_10_weeks = df_distance[df_distance['Date'] >= ten_weeks_ago].groupby('Truck ID')['Distance Traveled (miles)'].sum().reset_index()
+    miles_10_weeks.rename(columns={'Distance Traveled (miles)': 'Miles_Last_10_Weeks'}, inplace=True)
+    df_master = df_master.merge(miles_10_weeks, on='Truck ID', how='left')
+    df_master['Miles_Last_10_Weeks'] = df_master['Miles_Last_10_Weeks'].fillna(0)
+
+    # 4. Truck Odometer Data Features
+    latest_odometer = df_odometer.sort_values('Payroll Week', ascending=False).drop_duplicates('Truck ID')
+    latest_odometer = latest_odometer[['Truck ID', 'Odometer Reading']]
+    latest_odometer.rename(columns={'Odometer Reading': 'Latest_Odometer_Reading'}, inplace=True)
+    df_master = df_master.merge(latest_odometer, on='Truck ID', how='left')
+    df_master['Latest_Odometer_Reading'] = df_master['Latest_Odometer_Reading'].fillna(0)
+    df_master['Odometer_Distance_Check'] = 'Good' # Placeholder
+
+    # 5. Stub Data Features
+    stub_summary = df_stub.groupby('Truck ID').agg(
+        Num_Payroll_Entries=('Payroll Week', 'count'),
+        Total_Collected_Amount=('Amount', 'sum')
+    ).reset_index()
+    df_master = df_master.merge(stub_summary, on='Truck ID', how='left')
+    df_master['Num_Payroll_Entries'] = df_master['Num_Payroll_Entries'].fillna(0)
+    df_master['Total_Collected_Amount'] = df_master['Total_Collected_Amount'].fillna(0)
+
+    # 6. Truck Paper Features
+    df_master = df_master.merge(df_truck_paper, on='Truck ID', how='left')
+    df_master.rename(columns={'Price': 'Estimated_Resale_Value'}, inplace=True)
+    df_master['Estimated_Resale_Value'] = df_master['Estimated_Resale_Value'].fillna(0)
+
+    df_master['Potential_Gain_Loss_If_Sold'] = df_master['Estimated_Resale_Value'] - df_master['Total Owed']
+
+    # --- Decision Logic ---
+    total_repair_cost_q75 = df_master['Total_Repair_Cost'].quantile(0.75)
+    miles_last_10_weeks_q25 = df_master['Miles_Last_10_Weeks'].quantile(0.25)
+    num_payroll_entries_q25 = df_master['Num_Payroll_Entries'].quantile(0.25)
+    latest_odometer_q75 = df_master['Latest_Odometer_Reading'].quantile(0.75)
+
+    borderline_repair_cost_upper = df_master['Total_Repair_Cost'].quantile(0.60)
+    borderline_repair_cost_lower = df_master['Total_Repair_Cost'].quantile(0.40)
+    borderline_usage_upper = df_master['Num_Payroll_Entries'].quantile(0.60)
+    borderline_usage_lower = df_master['Num_Payroll_Entries'].quantile(0.40)
+    borderline_miles_upper = df_master['Miles_Last_10_Weeks'].quantile(0.60)
+    borderline_miles_lower = df_master['Miles_Last_10_Weeks'].quantile(0.40)
