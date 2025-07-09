@@ -78,3 +78,9 @@ for truck_id in truck_ids:
         })
 df_stub=pd.DataFrame(stub_data)
 df_stub['Payroll Week']=pd.to_datetime(df_stub['Payroll Week'])
+
+data_truck_paper={
+    'Truck ID': truck_ids,
+    'Price':np.random.uniform(10000, 60000, num_trucks)
+}
+df_truck_paper=pd.DataFrame(data_truck_paper)
