@@ -170,7 +170,7 @@ def get_truck_evaluations():
         actively_used = row['Num_Payroll_Entries'] >= num_payroll_entries_q25
         resale_lower_than_owed = row['Potential_Gain_Loss_If_Sold'] < 0
 
-         if high_mileage and high_repair_cost and low_usage and resale_higher_than_owed:
+        if high_mileage and high_repair_cost and low_usage and resale_higher_than_owed:
             return 'Sell'
         if low_moderate_mileage and (not high_repair_cost) and actively_used and resale_lower_than_owed:
             return 'Keep'
@@ -189,4 +189,28 @@ def get_truck_evaluations():
     df_master['Recommendation'] = df_master.apply(make_truck_recommendation, axis=1)
     return df_master
 
+@app.route('/')
+def index():
+    # Get the processed data
+    df_result = get_truck_evaluations()
 
+    # Select and format columns for display
+    display_columns = [
+        'Truck ID', 'Ownership Type', 'Monthly Cost', 'Total Owed', 'Is Paid Off',
+        'Total_Repair_Cost', 'Num_Repairs', 'Total_Miles_Traveled', 'Miles_Last_10_Weeks',
+        'Num_Idle_Days', 'Latest_Odometer_Reading', 'Num_Payroll_Entries',
+        'Total_Collected_Amount', 'Estimated_Resale_Value', 'Potential_Gain_Loss_If_Sold',
+        'Recommendation'
+    ]
+    df_display = df_result[display_columns].round(2) # Round numerical columns for cleaner display
+
+    # Convert DataFrame to an HTML table string
+    # You can add CSS classes to the table for styling (e.g., 'class="table table-striped"')
+    html_table = df_display.to_html(classes='data-table', index=False)
+
+    # Generate summary of recommendations
+    recommendation_summary = df_result['Recommendation'].value_counts().to_frame(name='Count').to_html(classes='summary-table')
+
+    # Basic HTML template string
+    # In a real Flask app, this would be in a separate .html file (e.g., templates/index.html)
+    template = """
